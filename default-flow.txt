@@ -1,0 +1,12 @@
+5
+0 79 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.26.73.220-0.3.117.73.txt 0 2723402 2723402 1 
+0 79 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.246.160.220-252.44.9.113.txt 1 2272457 2272457 1 
+0 79 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.134.81.111-162.140.56.31.txt 1 3368187 3368187 1 
+0 79 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.134.81.38-140.158.54.19.txt 2 7390755 7390755 1 
+0 79 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.179.217.102-0.3.117.180.txt 0 5061679 5061679 1 
+5
+79 26 1
+79 73 1
+79 97 1
+79 84 1
+79 96 1

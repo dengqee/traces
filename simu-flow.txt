@@ -1,0 +1,1917 @@
+1000
+38 110 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.2.124-41.177.98.176.txt 0 157923808 157923808 1 
+47 99 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.174.245.249-238.180.170.62.txt 1 425967853 425967853 1 
+11 108 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.246.151.170-0.3.117.73.txt 1 166869977 166869977 1 
+63 74 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.189.240.86-252.44.44.4.txt 2 99513023 99513023 1 
+0 69 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.155.23.27-162.140.40.156.txt 1 81022789 81022789 1 
+34 88 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.247-138.147.161.73.txt 1 182082357 182082357 1 
+12 101 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.151.128.183-162.142.99.226.txt 1 214363685 214363685 1 
+36 78 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.171.164.34-140.157.139.53.txt 0 93123449 93123449 1 
+2 86 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.83-227.133.189.5.txt 2 263377773 263377773 1 
+10 106 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-244.132.133.165.txt 2 411533359 411533359 1 
+20 83 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.200.36-238.86.212.236.txt 2 615549288 615549288 1 
+10 111 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.176.90-241.188.48.148.txt 2 66933796 66933796 1 
+49 109 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.59.139-0.3.117.181.txt 0 45214555 45214555 1 
+32 92 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-162.132.111.133.txt 2 300340417 300340417 1 
+39 109 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.141-162.158.197.192.txt 2 100698912 100698912 1 
+47 108 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.29-244.132.54.121.txt 1 419349663 419349663 1 
+46 86 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.155.23.27-162.131.66.5.txt 2 552638401 552638401 1 
+12 76 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.22.159.6-162.133.194.6.txt 2 480731601 480731601 1 
+1 105 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.130-244.132.3.206.txt 0 132091237 132091237 1 
+50 77 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.161.227.15-0.3.117.181.txt 0 236673304 236673304 1 
+12 106 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.83.61-162.132.49.145.txt 2 877959880 877959880 1 
+47 94 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.192.170.255-0.3.117.73.txt 2 437343284 437343284 1 
+59 95 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.13.227.191-249.161.225.198.txt 1 137288386 137288386 1 
+15 104 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.129-245.65.115.190.txt 0 168751616 168751616 1 
+46 124 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.18.48.237-0.3.117.94.txt 1 79998815 79998815 1 
+55 72 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.239-3.231.195.254.txt 0 180682791 180682791 1 
+50 119 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.135.37.77-0.3.117.187.txt 2 27830086 27830086 1 
+63 113 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/117.219.119.201-244.3.160.239.txt 2 46382178 46382178 1 
+0 111 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.242.192.251-140.157.245.13.txt 1 24169914 24169914 1 
+56 115 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.227-143.173.64.111.txt 0 197872782 197872782 1 
+7 106 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.66.100-252.44.65.114.txt 1 255750104 255750104 1 
+40 73 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.161.132.106-245.51.101.65.txt 2 790084647 790084647 1 
+36 95 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.253.33.33-0.3.116.14.txt 1 369596849 369596849 1 
+10 77 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-244.132.159.49.txt 1 85977968 85977968 1 
+32 87 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.5.179.87-0.3.117.184.txt 1 139245519 139245519 1 
+8 109 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.195-4.148.57.173.txt 1 530300421 530300421 1 
+21 114 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.100.109.82-0.3.117.185.txt 2 32674876 32674876 1 
+21 90 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-244.132.116.118.txt 0 192079744 192079744 1 
+63 95 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.207.160.78-0.3.117.94.txt 0 69857515 69857515 1 
+19 102 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.79.236-252.44.4.198.txt 1 78270460 78270460 1 
+53 92 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.186.182.146-0.3.117.94.txt 1 10948456 10948456 1 
+6 103 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.177.192.81-252.44.72.170.txt 2 54137772 54137772 1 
+3 84 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.20.177.35-0.3.117.92.txt 1 818284003 818284003 1 
+40 68 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.150.136.158-0.3.117.180.txt 2 169109559 169109559 1 
+47 89 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.154.20.60-245.51.10.243.txt 2 182923152 182923152 1 
+57 105 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.31.119.51-241.188.36.223.txt 2 84356881 84356881 1 
+17 82 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.10.207-162.134.167.223.txt 1 578856580 578856580 1 
+22 86 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.130.255.100-236.33.165.145.txt 1 650939399 650939399 1 
+1 73 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.43.167.77-236.204.112.12.txt 0 15835001 15835001 1 
+6 121 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.192.197.150-0.3.117.180.txt 2 160639604 160639604 1 
+22 100 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.233.17.7-0.3.117.73.txt 1 54923074 54923074 1 
+34 121 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/228.22.49.194-162.132.93.174.txt 0 157458305 157458305 1 
+36 76 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.13.35.28-0.3.117.94.txt 1 180678284 180678284 1 
+30 68 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.238.30.228-252.44.7.14.txt 2 48060104 48060104 1 
+56 72 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.148.71.161-0.3.117.70.txt 2 115799650 115799650 1 
+63 122 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.129-162.138.101.65.txt 0 153178600 153178600 1 
+32 101 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-115.52.217.225.txt 2 38720903 38720903 1 
+60 104 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.155.84.136-0.3.117.94.txt 2 327526952 327526952 1 
+42 110 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.15-77.197.210.159.txt 1 67538641 67538641 1 
+36 102 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.22-198.177.110.202.txt 2 70888956 70888956 1 
+40 117 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.195.254.211-244.132.3.179.txt 2 494947476 494947476 1 
+32 83 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.98.142-186.181.116.61.txt 2 149560985 149560985 1 
+58 78 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.129.200.145-0.3.117.45.txt 0 28232282 28232282 1 
+36 95 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-162.138.244.59.txt 2 85499064 85499064 1 
+11 102 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/151.77.215.239-244.3.210.197.txt 1 424702625 424702625 1 
+45 85 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.248.122.84-0.3.117.40.txt 0 177762292 177762292 1 
+49 99 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.113-3.231.230.229.txt 1 158234889 158234889 1 
+3 112 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.241.22.197-241.46.189.158.txt 2 621610346 621610346 1 
+24 72 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.62-3.193.110.95.txt 0 114227101 114227101 1 
+18 68 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.192.254.237-0.3.117.181.txt 1 374452815 374452815 1 
+3 75 40 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.235.71.76-0.3.117.94.txt 0 34025454 34025454 1 
+49 68 40 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.67-0.3.117.40.txt 2 269477408 269477408 1 
+34 113 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/247.129.231.63-0.3.117.73.txt 2 257705913 257705913 1 
+23 92 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.9.169.29-162.132.100.190.txt 0 93269662 93269662 1 
+49 70 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.207.173.165-0.3.117.181.txt 1 27259530 27259530 1 
+3 103 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.140.113.197-0.3.117.184.txt 1 6896758 6896758 1 
+53 85 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.5.171.99-0.3.117.187.txt 2 125417786 125417786 1 
+38 81 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.81.191.62-238.180.170.192.txt 2 155533423 155533423 1 
+20 109 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.159.217.114-0.3.117.73.txt 1 751582193 751582193 1 
+9 111 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.132.10.92-0.3.117.50.txt 1 283440577 283440577 1 
+9 67 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.177.40.196-0.3.117.94.txt 0 70410661 70410661 1 
+14 82 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-244.3.151.202.txt 2 199940364 199940364 1 
+50 116 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.33-3.212.34.82.txt 2 358525152 358525152 1 
+30 100 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.195-161.187.175.186.txt 2 274247955 274247955 1 
+16 124 22 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.185.87.138-0.3.117.94.txt 0 28751135 28751135 1 
+43 87 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.163.192.2-0.3.117.94.txt 0 281500652 281500652 1 
+26 81 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.194.186-41.177.98.176.txt 2 510446812 510446812 1 
+0 122 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.140.127.195.txt 2 223081841 223081841 1 
+31 70 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.239.18.229-0.3.117.94.txt 2 352096546 352096546 1 
+6 115 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.185.195.txt 1 597754461 597754461 1 
+31 113 39 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.96.112-245.253.96.80.txt 1 289165978 289165978 1 
+22 121 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.236.35.92-0.3.117.181.txt 0 265823718 265823718 1 
+34 99 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.169.189.4-0.3.117.181.txt 2 48750322 48750322 1 
+61 100 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.20.165.184-0.3.117.181.txt 0 398659957 398659957 1 
+57 72 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.128.38-41.177.26.91.txt 1 247263220 247263220 1 
+44 109 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.198.211-115.50.233.156.txt 0 679645185 679645185 1 
+22 72 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/168.91.64.164-244.3.210.230.txt 1 62425521 62425521 1 
+43 72 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.76.199.207-0.3.117.94.txt 1 239691876 239691876 1 
+28 97 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.159.241.119-0.3.117.181.txt 2 258369087 258369087 1 
+23 122 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.230-115.51.3.204.txt 2 147934901 147934901 1 
+10 107 80 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.175.195.29-0.3.117.49.txt 2 380613982 380613982 1 
+43 84 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-124.224.117.159.txt 2 85571899 85571899 1 
+4 100 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.166.64.187-0.3.117.94.txt 1 32801738 32801738 1 
+0 112 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.12-0.3.117.54.txt 0 34888940 34888940 1 
+38 93 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.176-30.105.106.215.txt 2 688580675 688580675 1 
+10 118 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.37.168.143-244.132.127.118.txt 0 257712268 257712268 1 
+10 93 49 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.252.237.231-0.3.117.91.txt 2 74269369 74269369 1 
+21 94 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.142.46.116-41.177.26.91.txt 1 203103030 203103030 1 
+20 82 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-245.49.172.185.txt 2 310329929 310329929 1 
+52 71 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.178.191.180-0.3.117.180.txt 0 280603792 280603792 1 
+28 115 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.98.30.145-248.153.48.46.txt 0 546386707 546386707 1 
+61 98 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-153.125.107.128.txt 1 320494410 320494410 1 
+51 101 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.194.20.185-238.86.212.236.txt 0 8435226 8435226 1 
+4 100 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.206.234-241.46.212.15.txt 2 204754720 204754720 1 
+13 92 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.37.251-140.123.224.24.txt 1 506014104 506014104 1 
+2 97 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.189.158.156-140.143.152.173.txt 0 161761999 161761999 1 
+42 71 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.182.218.238-162.133.194.6.txt 0 462271896 462271896 1 
+16 112 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-245.55.77.126.txt 2 211527375 211527375 1 
+18 116 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.239-0.180.180.44.txt 1 39399704 39399704 1 
+5 95 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.139.136-140.143.189.220.txt 1 430732236 430732236 1 
+28 121 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.226.2.66-0.3.117.94.txt 1 218943312 218943312 1 
+5 75 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.201.233-162.140.24.209.txt 1 74043989 74043989 1 
+15 76 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.157.0.193.txt 1 220012762 220012762 1 
+26 109 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.134.81.60-140.121.216.195.txt 1 15594399 15594399 1 
+42 92 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.144.15.213-162.140.202.147.txt 2 127630304 127630304 1 
+57 97 36 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.196-115.12.131.161.txt 0 2877936 2877936 1 
+14 98 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.111.200-241.188.36.134.txt 1 425194468 425194468 1 
+63 73 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/68.157.168.144-41.177.26.176.txt 2 365101456 365101456 1 
+59 76 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.4.36-245.49.182.66.txt 1 89768003 89768003 1 
+23 126 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.136.25.193-245.49.134.172.txt 2 35642156 35642156 1 
+22 109 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.92.32.0-0.3.117.181.txt 1 111792977 111792977 1 
+23 118 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.213.165.93-252.44.102.95.txt 0 178187629 178187629 1 
+52 120 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.160.130.93-0.3.117.94.txt 1 84979815 84979815 1 
+50 125 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.25.126.245-252.208.122.103.txt 0 434955480 434955480 1 
+60 67 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.144.182.203-236.67.3.20.txt 1 320790804 320790804 1 
+35 65 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.242.49-3.51.151.226.txt 1 41946655 41946655 1 
+27 69 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.215.246.255-162.135.146.92.txt 2 11158858 11158858 1 
+36 86 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.95.243-241.188.36.223.txt 2 263902192 263902192 1 
+28 76 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.141.47.62.txt 2 417950609 417950609 1 
+37 76 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.160.196-162.131.254.67.txt 1 109033700 109033700 1 
+12 66 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.128.155-41.177.26.15.txt 0 631137004 631137004 1 
+5 123 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.210.47-41.177.26.91.txt 1 418121640 418121640 1 
+19 103 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.51.48-241.46.185.205.txt 0 13963997 13963997 1 
+13 126 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-245.49.239.11.txt 0 302158728 302158728 1 
+31 99 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.153.141.179-245.55.212.174.txt 2 724774377 724774377 1 
+25 106 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/247.129.231.63-0.3.117.73.txt 0 162394828 162394828 1 
+9 69 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.231.15.87-244.132.133.190.txt 1 32118769 32118769 1 
+42 124 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.239-143.47.100.134.txt 0 183431405 183431405 1 
+6 92 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-4.149.9.160.txt 2 260897739 260897739 1 
+32 91 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.157.219.255-236.67.247.22.txt 0 54809357 54809357 1 
+13 72 70 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.128-162.136.105.35.txt 1 592598247 592598247 1 
+6 122 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-244.132.59.114.txt 1 105627133 105627133 1 
+3 81 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.130.240.124-252.208.116.243.txt 1 549665650 549665650 1 
+0 104 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.176.90-241.188.48.148.txt 0 463895214 463895214 1 
+19 69 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/105.144.38.197-41.177.26.46.txt 2 576734316 576734316 1 
+30 111 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.83-153.125.109.182.txt 1 42982856 42982856 1 
+10 64 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.79.222.150-252.44.73.190.txt 0 386306326 386306326 1 
+31 118 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.136.186-71.59.53.165.txt 1 566811031 566811031 1 
+17 75 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-227.118.152.169.txt 0 37086636 37086636 1 
+54 124 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.159.15.110-0.3.117.94.txt 2 616777249 616777249 1 
+4 86 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-140.157.193.96.txt 0 34653585 34653585 1 
+24 82 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.48.10-162.141.98.250.txt 2 172225751 172225751 1 
+12 72 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.151.206.184-1.88.78.113.txt 0 61968843 61968843 1 
+10 79 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.148.203.96-0.3.117.73.txt 2 409537781 409537781 1 
+50 110 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.83.61-245.253.110.127.txt 2 108167225 108167225 1 
+13 115 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.211.66-0.3.117.187.txt 2 318787149 318787149 1 
+41 108 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.139.229.179-162.131.195.255.txt 1 14639249 14639249 1 
+17 85 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.65.69-140.115.34.233.txt 2 625931021 625931021 1 
+55 84 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.175-238.181.176.2.txt 2 297510180 297510180 1 
+29 70 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.164.236.182-227.214.184.39.txt 2 531505540 531505540 1 
+59 125 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.235.112-0.3.117.183.txt 2 98896686 98896686 1 
+9 104 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-244.132.136.67.txt 2 23959427 23959427 1 
+58 114 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.236.43.62-252.44.199.211.txt 2 387260339 387260339 1 
+6 109 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.162.232.173-140.118.155.177.txt 2 50087178 50087178 1 
+44 124 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.230-115.35.32.100.txt 2 73111499 73111499 1 
+53 79 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.232.80.36-0.3.117.188.txt 0 149465392 149465392 1 
+51 114 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-145.95.150.160.txt 2 260306573 260306573 1 
+41 122 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.203-0.15.139.212.txt 1 247793706 247793706 1 
+56 64 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-3.231.235.158.txt 0 51549002 51549002 1 
+63 115 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.83-249.204.14.64.txt 1 227569155 227569155 1 
+45 90 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.18.240.3-236.67.176.253.txt 2 332649266 332649266 1 
+0 98 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.100.208.102-0.3.117.94.txt 0 467452128 467452128 1 
+11 101 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.94.29.157-0.3.117.94.txt 1 251169810 251169810 1 
+51 112 39 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.135.145.184.txt 2 205062638 205062638 1 
+7 98 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.188.79.63-239.186.41.231.txt 1 353950157 353950157 1 
+51 111 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.128-245.49.178.122.txt 0 62404946 62404946 1 
+42 124 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.141.203.42.txt 0 237617203 237617203 1 
+9 106 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.35.200.195-0.3.117.94.txt 1 331092494 331092494 1 
+50 65 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.210.186-244.3.210.197.txt 0 193075988 193075988 1 
+39 87 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.237.236.46-252.44.191.49.txt 0 40280421 40280421 1 
+10 88 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.174.229.199-0.3.117.55.txt 2 130353883 130353883 1 
+30 72 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.186.38.61-0.3.117.180.txt 2 258855416 258855416 1 
+8 111 11 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.207.141-162.140.27.216.txt 1 39617969 39617969 1 
+49 73 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.204.149.47-140.148.172.33.txt 0 721944793 721944793 1 
+62 78 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.152.117.101-162.136.95.113.txt 0 48244655 48244655 1 
+5 86 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.173.99.97-252.44.99.148.txt 0 667350703 667350703 1 
+18 118 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.97.159.73-1.88.78.109.txt 1 93953720 93953720 1 
+36 127 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-252.44.104.135.txt 1 118754413 118754413 1 
+46 80 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-0.123.30.201.txt 2 44682559 44682559 1 
+23 79 66 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.255.106-238.2.91.134.txt 1 198355104 198355104 1 
+21 117 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-162.137.164.150.txt 0 180275299 180275299 1 
+0 125 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.40.238.47-162.134.53.104.txt 0 6681768 6681768 1 
+13 70 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.148.202.167-0.3.117.70.txt 2 189498281 189498281 1 
+4 91 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-0.15.86.198.txt 1 469287745 469287745 1 
+27 107 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.239.180.227-0.3.117.92.txt 1 411966607 411966607 1 
+17 115 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.194-227.110.64.213.txt 2 576375030 576375030 1 
+3 115 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.253.48.46-0.3.117.73.txt 0 50949403 50949403 1 
+53 70 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.57.2.197-239.80.43.183.txt 1 702527565 702527565 1 
+53 76 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.210.198-41.177.26.15.txt 2 465132797 465132797 1 
+14 100 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.159.248.66-0.3.117.73.txt 0 344148741 344148741 1 
+11 109 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.163.76.222-0.3.117.49.txt 1 40908226 40908226 1 
+57 101 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.175.248.txt 2 36051331 36051331 1 
+42 77 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.162.22.221-236.207.160.249.txt 1 325952108 325952108 1 
+30 85 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.5.65.228-0.3.117.183.txt 2 233530130 233530130 1 
+49 69 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/5.105.69.192-239.186.122.219.txt 2 422106555 422106555 1 
+5 109 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-246.208.117.213.txt 2 498678632 498678632 1 
+18 83 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.46-15.128.184.13.txt 0 390869383 390869383 1 
+51 85 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.48-115.41.172.116.txt 1 264541101 264541101 1 
+35 71 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.97.100.203-244.132.90.22.txt 1 236682791 236682791 1 
+10 83 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.113-244.132.93.230.txt 2 12363516 12363516 1 
+56 77 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.31.134.255-241.188.48.142.txt 0 235970233 235970233 1 
+55 89 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.152.55.183-0.3.90.250.txt 2 17887935 17887935 1 
+19 84 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.195.254.211-244.129.225.61.txt 1 392683104 392683104 1 
+21 70 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.239.40-41.177.26.176.txt 2 866878862 866878862 1 
+48 70 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.136.187-241.46.189.158.txt 0 118502854 118502854 1 
+55 125 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-244.132.113.139.txt 0 236082583 236082583 1 
+28 110 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-115.54.198.5.txt 1 272407654 272407654 1 
+52 88 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.235.44.238-252.44.112.249.txt 1 261187407 261187407 1 
+9 127 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.153.231-241.46.185.93.txt 0 249393848 249393848 1 
+25 80 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.207.16.48-0.3.117.94.txt 2 221867567 221867567 1 
+24 102 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.146-244.132.158.13.txt 0 83975798 83975798 1 
+1 70 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-244.132.23.99.txt 1 191870934 191870934 1 
+10 89 80 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.66.103.229-0.3.117.94.txt 2 300956594 300956594 1 
+31 77 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.181.84.184-140.138.207.8.txt 0 180182744 180182744 1 
+45 68 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.247-0.3.117.50.txt 2 458606586 458606586 1 
+59 64 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.237.148.56-162.157.0.19.txt 2 803324872 803324872 1 
+29 93 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/18.211.185.46-244.3.210.197.txt 2 28974837 28974837 1 
+1 92 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.225.235.249-162.131.190.52.txt 0 248986759 248986759 1 
+39 117 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.162.21.195-0.3.117.73.txt 1 529675792 529675792 1 
+19 71 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.156-0.3.117.50.txt 0 146684992 146684992 1 
+12 116 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-244.132.159.104.txt 1 289025986 289025986 1 
+54 64 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.54-143.47.203.69.txt 1 24515139 24515139 1 
+0 114 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.245.223.211-162.138.171.250.txt 0 190747321 190747321 1 
+9 101 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-244.132.23.99.txt 1 747789111 747789111 1 
+31 119 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/172.131.150.209-0.3.117.188.txt 1 115419118 115419118 1 
+46 67 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.29.152.164-162.131.225.166.txt 1 454088085 454088085 1 
+54 111 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.128.224-244.3.210.197.txt 0 14976570 14976570 1 
+27 106 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.242.44.65-241.252.164.7.txt 2 221223767 221223767 1 
+27 113 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.172.159.230-236.32.99.88.txt 2 52175002 52175002 1 
+6 102 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.71.13-0.3.117.187.txt 1 273450332 273450332 1 
+27 98 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.80.189.170-239.186.41.231.txt 0 15802926 15802926 1 
+24 104 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.77.229.120-238.157.100.104.txt 2 42833586 42833586 1 
+51 112 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.185.234.188-252.44.6.7.txt 1 206147548 206147548 1 
+53 87 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.86.44-140.138.142.88.txt 2 431184051 431184051 1 
+25 126 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.60-115.44.78.243.txt 0 247319748 247319748 1 
+63 87 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-0.180.34.49.txt 1 10232699 10232699 1 
+59 122 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.31.85.23-241.188.48.159.txt 2 34470558 34470558 1 
+59 77 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.198.139-244.154.237.76.txt 1 143123508 143123508 1 
+7 75 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.247.217.86-0.3.90.252.txt 0 33860818 33860818 1 
+0 106 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.172.159.224-162.134.102.181.txt 2 62738590 62738590 1 
+54 80 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-143.47.129.184.txt 1 289752420 289752420 1 
+60 110 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.144.3.251-162.131.175.251.txt 0 771419350 771419350 1 
+35 121 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.108.159.230-239.186.122.215.txt 1 176089393 176089393 1 
+54 119 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.139.229.187-162.131.195.255.txt 1 250991869 250991869 1 
+7 76 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.189.151.156-0.3.117.180.txt 2 48884426 48884426 1 
+54 114 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.127.144.250-1.88.78.100.txt 1 401559048 401559048 1 
+42 90 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.125.67.235-140.138.207.8.txt 1 45872664 45872664 1 
+14 123 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.225.235.249-162.131.190.52.txt 1 8405498 8405498 1 
+38 114 22 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.182.220.244-252.44.17.237.txt 2 223611020 223611020 1 
+41 86 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.205.88.90-0.3.117.180.txt 0 13858127 13858127 1 
+48 97 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.245.222.176-162.136.84.6.txt 0 560756562 560756562 1 
+33 66 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.82.29.144-238.2.91.135.txt 0 324243254 324243254 1 
+23 117 49 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.143.147.134-0.3.117.70.txt 2 149403364 149403364 1 
+43 117 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-245.51.107.168.txt 2 480836549 480836549 1 
+16 126 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.216.48.173-0.3.117.73.txt 1 516844540 516844540 1 
+56 115 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.30.211-162.138.64.210.txt 0 230995410 230995410 1 
+3 104 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/117.194.161.127-41.177.98.176.txt 1 9133894 9133894 1 
+55 121 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.50-143.165.29.221.txt 1 764974635 764974635 1 
+21 91 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.253.50.232-252.44.39.75.txt 0 512247270 512247270 1 
+42 75 59 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.160.130.93-0.3.117.94.txt 2 5462487 5462487 1 
+21 125 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-245.65.92.53.txt 2 161000479 161000479 1 
+19 116 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.131.135.31.txt 2 159268664 159268664 1 
+42 100 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.195-143.173.89.67.txt 0 314807864 314807864 1 
+19 105 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/90.55.244.176-41.177.98.176.txt 1 256072090 256072090 1 
+27 118 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.109.88.222-0.3.117.94.txt 1 38005470 38005470 1 
+63 64 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.73-227.221.233.137.txt 1 17418229 17418229 1 
+35 87 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.69.251.16-140.114.191.117.txt 1 421954953 421954953 1 
+58 120 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.159.154.229-0.3.117.181.txt 1 869819944 869819944 1 
+60 124 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/131.118.18.140-0.3.117.94.txt 1 8927130 8927130 1 
+9 127 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.40.238.96-162.138.103.14.txt 2 94499472 94499472 1 
+27 87 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.4.36-236.207.193.79.txt 2 46779983 46779983 1 
+55 109 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.84.192.78-238.2.91.135.txt 2 2756319 2756319 1 
+30 117 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.61-115.45.1.244.txt 2 12374869 12374869 1 
+33 88 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.103-244.132.133.93.txt 2 47056830 47056830 1 
+10 112 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.17.12.84-0.3.117.73.txt 2 430302455 430302455 1 
+16 114 40 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.154.210.199-140.138.142.88.txt 1 440689832 440689832 1 
+53 94 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.82.120-3.216.202.195.txt 1 521213032 521213032 1 
+36 91 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.170.87.168-0.3.117.94.txt 1 143033879 143033879 1 
+43 127 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.129-244.132.72.30.txt 1 24162301 24162301 1 
+11 97 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.84.12-241.46.246.223.txt 0 693863262 693863262 1 
+39 95 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.79.115.164-0.15.153.142.txt 1 23268479 23268479 1 
+14 104 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.200.63-143.173.115.61.txt 1 125730449 125730449 1 
+4 117 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.147-1.8.242.61.txt 0 26431593 26431593 1 
+41 76 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.191.38-0.180.175.104.txt 0 268757498 268757498 1 
+25 93 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.48-244.94.156.36.txt 0 245392885 245392885 1 
+13 107 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.40.238.42-162.132.33.162.txt 0 27012795 27012795 1 
+26 125 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.184.58.8-0.3.117.54.txt 1 575711630 575711630 1 
+61 86 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-245.65.115.190.txt 2 518914009 518914009 1 
+7 126 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-241.46.230.24.txt 2 36675887 36675887 1 
+53 127 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.4.36-162.136.117.182.txt 2 181602323 181602323 1 
+59 72 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.216-0.180.183.140.txt 0 16468901 16468901 1 
+62 90 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.73-245.252.204.217.txt 1 149848466 149848466 1 
+31 125 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.241.73-241.188.36.4.txt 0 731111121 731111121 1 
+10 81 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.16.58.1-0.3.117.73.txt 2 284129549 284129549 1 
+34 78 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.65.67-162.131.254.70.txt 0 250279625 250279625 1 
+60 113 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/235.196.240.251-140.157.191.33.txt 0 91479533 91479533 1 
+4 109 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/172.131.150.66-0.3.117.188.txt 2 569183037 569183037 1 
+37 88 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.123.211.246-0.3.117.183.txt 2 44470564 44470564 1 
+23 77 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.112.62-239.186.122.219.txt 1 267405496 267405496 1 
+40 113 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.242.192.251-140.157.149.144.txt 1 22612652 22612652 1 
+14 67 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.86.64-241.46.246.161.txt 0 618343974 618343974 1 
+17 125 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.44.123.131-237.108.172.77.txt 0 2045831 2045831 1 
+52 97 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.165.34.140-0.3.117.180.txt 0 135246776 135246776 1 
+36 111 22 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.79-0.3.117.40.txt 2 102611223 102611223 1 
+30 84 80 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.130-244.132.30.117.txt 1 70596766 70596766 1 
+21 71 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.239-4.151.18.7.txt 1 219257280 219257280 1 
+60 113 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.97.74.140-0.3.117.75.txt 1 101799510 101799510 1 
+4 81 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.144.7.199-162.132.116.29.txt 2 72223313 72223313 1 
+56 71 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.188.96.20-162.132.114.70.txt 2 24691381 24691381 1 
+34 75 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.100.174.191-0.3.117.92.txt 2 266194840 266194840 1 
+1 102 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.197.182.164-241.188.36.73.txt 0 314889276 314889276 1 
+43 80 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/147.140.227.113-0.3.117.40.txt 0 139238887 139238887 1 
+58 114 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.136.187-241.46.185.205.txt 2 249572467 249572467 1 
+4 70 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-140.140.46.30.txt 2 701256843 701256843 1 
+4 111 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.134.51.97-0.3.117.183.txt 1 259130155 259130155 1 
+43 111 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.148.1.117-140.157.111.82.txt 1 539941577 539941577 1 
+59 90 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.181.82.146-0.3.117.180.txt 0 65918057 65918057 1 
+32 79 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.52.198-0.3.117.94.txt 1 63958004 63958004 1 
+13 118 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.144.96.21-0.3.117.94.txt 1 211156660 211156660 1 
+8 79 49 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.72.57.211-227.212.3.67.txt 0 79965063 79965063 1 
+16 82 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.188.241.183-0.3.117.181.txt 1 232090936 232090936 1 
+36 68 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.175.95.1-236.68.108.252.txt 1 38413895 38413895 1 
+26 67 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-165.3.202.57.txt 1 73513525 73513525 1 
+52 108 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.210.8.165-162.132.100.190.txt 1 288044732 288044732 1 
+44 72 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.233.196.137-241.253.143.187.txt 2 20644194 20644194 1 
+31 64 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-1.173.91.57.txt 1 664277951 664277951 1 
+38 99 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-244.3.85.17.txt 2 6464472 6464472 1 
+50 67 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/130.144.158.81-0.3.117.33.txt 0 737242000 737242000 1 
+20 89 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.79.3.136-0.3.117.94.txt 2 68156905 68156905 1 
+54 104 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-115.42.7.251.txt 0 74836589 74836589 1 
+19 106 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.59.107.83-239.186.41.231.txt 0 54733758 54733758 1 
+44 126 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.31.74.41-0.3.117.180.txt 2 118964568 118964568 1 
+54 75 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.187.200.186-140.130.128.8.txt 1 160293069 160293069 1 
+51 116 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.240.89-252.44.71.27.txt 0 401753525 401753525 1 
+1 116 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.154.44.32-162.131.195.255.txt 1 40244412 40244412 1 
+58 66 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.53.193.111-0.3.117.55.txt 1 696839548 696839548 1 
+33 123 59 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.15-77.197.210.247.txt 2 124709993 124709993 1 
+12 102 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.169-245.185.179.247.txt 0 92092336 92092336 1 
+15 70 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.40-115.35.104.176.txt 2 26122972 26122972 1 
+62 127 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.142.238.2.txt 2 325433165 325433165 1 
+18 83 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.138.243.175.txt 2 153310388 153310388 1 
+29 100 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.235.167.221-238.240.241.82.txt 2 172959685 172959685 1 
+56 67 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-3.231.211.67.txt 0 112842275 112842275 1 
+36 90 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.157.119.221-0.3.117.187.txt 2 22853593 22853593 1 
+12 95 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.245.222.234-236.64.53.46.txt 0 127560454 127560454 1 
+49 86 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.176-77.197.210.106.txt 2 453439590 453439590 1 
+4 74 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.238.68.78-162.157.0.106.txt 1 413888244 413888244 1 
+63 67 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.76.166.112-0.15.91.24.txt 2 97916899 97916899 1 
+0 86 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.80.178.7-0.3.117.94.txt 2 636864614 636864614 1 
+29 68 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.216-0.180.148.248.txt 2 304947577 304947577 1 
+5 126 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.174.185.125-140.163.184.45.txt 0 355740153 355740153 1 
+60 118 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-238.180.217.232.txt 1 20134193 20134193 1 
+57 70 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-227.212.24.74.txt 2 19030453 19030453 1 
+17 112 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.234.10.192-252.44.170.29.txt 2 154695514 154695514 1 
+62 127 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.255.59.36-0.3.117.50.txt 1 312865941 312865941 1 
+12 125 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.159.209.90-0.3.117.181.txt 2 971475467 971475467 1 
+58 71 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.139-227.133.189.5.txt 0 44702533 44702533 1 
+13 92 22 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.127.46.146-0.3.117.188.txt 1 52555656 52555656 1 
+47 73 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.248.18.201-244.132.113.139.txt 1 313773636 313773636 1 
+47 117 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.132.24.158-162.131.199.252.txt 0 113562037 113562037 1 
+50 94 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.116.152.22-227.0.150.82.txt 2 67004698 67004698 1 
+21 126 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.140.245.153.txt 2 298716645 298716645 1 
+58 87 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.232.95.1-0.3.117.188.txt 2 17600348 17600348 1 
+22 115 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.129.44.211-162.138.198.92.txt 0 11524483 11524483 1 
+25 80 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.43.164.2-245.49.9.43.txt 0 166266086 166266086 1 
+1 119 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.237.185.130-0.3.117.73.txt 0 112436449 112436449 1 
+38 79 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.150.160.1-0.3.117.180.txt 1 297184198 297184198 1 
+36 100 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.60-115.45.1.244.txt 2 326015578 326015578 1 
+58 66 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.97.64.23-0.3.117.94.txt 1 88883463 88883463 1 
+6 74 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.232.93.60-0.3.117.184.txt 0 75935500 75935500 1 
+40 127 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-244.132.152.208.txt 2 71262791 71262791 1 
+59 88 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.121.155.212-245.51.10.240.txt 2 83552104 83552104 1 
+30 74 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.91-77.197.210.153.txt 2 307421157 307421157 1 
+58 117 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.6.188-162.132.166.0.txt 1 410930459 410930459 1 
+52 113 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.76.107.220-0.3.117.181.txt 2 113268868 113268868 1 
+55 114 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.96.158.219-0.3.117.181.txt 2 306486243 306486243 1 
+10 74 49 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.163.251.193-162.132.77.190.txt 1 255988440 255988440 1 
+39 117 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.230-115.43.203.233.txt 0 102664398 102664398 1 
+17 77 59 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.54-115.45.1.240.txt 0 57746758 57746758 1 
+33 122 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.254.252.168-0.3.117.73.txt 1 509104285 509104285 1 
+39 111 22 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.17.64.228-0.3.117.184.txt 2 264685604 264685604 1 
+7 69 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-162.132.124.128.txt 0 331640218 331640218 1 
+37 104 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.139.210.57-239.186.41.231.txt 2 221619160 221619160 1 
+40 99 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.134.117.170-162.131.195.254.txt 0 745927825 745927825 1 
+42 94 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/242.48.168.103-3.41.43.89.txt 0 8117609 8117609 1 
+1 75 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.249.112.97-0.3.117.92.txt 2 249443085 249443085 1 
+58 64 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/242.48.168.59-128.232.99.211.txt 2 535173004 535173004 1 
+16 123 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.148.202.167-0.3.117.70.txt 0 234769396 234769396 1 
+11 85 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.121.253.171-252.44.250.11.txt 2 145969788 145969788 1 
+45 74 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.226.176.112-0.3.117.94.txt 1 107836040 107836040 1 
+17 87 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.44.188-241.188.36.223.txt 2 30927445 30927445 1 
+0 69 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.142.46.116-41.177.26.91.txt 0 124332454 124332454 1 
+54 124 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/26.202.95.117-41.177.26.176.txt 1 121410175 121410175 1 
+1 107 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.93.137.142-0.3.117.187.txt 0 277280923 277280923 1 
+16 70 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.53.109-227.102.191.220.txt 1 178917966 178917966 1 
+39 118 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.89.148-227.250.69.255.txt 0 60486269 60486269 1 
+47 127 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.107.97.131-0.3.117.92.txt 2 183592384 183592384 1 
+14 68 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.72.57.211-227.212.3.67.txt 0 191762308 191762308 1 
+6 93 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.209.74-153.125.105.112.txt 0 555451621 555451621 1 
+60 97 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.16.139.105-0.3.117.94.txt 0 18608218 18608218 1 
+61 72 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.190.122.txt 2 73437624 73437624 1 
+49 83 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.58.44-128.232.99.207.txt 0 52800763 52800763 1 
+30 83 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.242.192.251-140.157.18.105.txt 0 291981195 291981195 1 
+46 108 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.182.242.131-162.131.199.254.txt 2 832619586 832619586 1 
+15 117 59 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.177.101.108-0.3.117.94.txt 0 463429950 463429950 1 
+25 123 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-245.109.116.107.txt 1 183684209 183684209 1 
+9 70 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.91-77.197.128.18.txt 0 766186873 766186873 1 
+47 65 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.176-41.122.241.239.txt 0 339091638 339091638 1 
+22 113 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.98-244.132.81.219.txt 0 102664714 102664714 1 
+36 75 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-140.143.163.229.txt 2 516513098 516513098 1 
+57 78 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.129.224.5-0.3.117.184.txt 0 414085127 414085127 1 
+17 66 80 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/147.135.192.26-0.3.117.92.txt 2 29022007 29022007 1 
+23 98 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.253.84.125-140.143.152.173.txt 0 54824000 54824000 1 
+32 89 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.129-244.132.29.48.txt 2 563385389 563385389 1 
+11 113 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.139-115.36.7.201.txt 1 92203606 92203606 1 
+59 120 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.31.205.249-0.3.117.94.txt 2 126592764 126592764 1 
+57 108 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.13.158-0.3.117.183.txt 1 358820408 358820408 1 
+55 72 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.154-0.244.89.225.txt 0 276966512 276966512 1 
+30 118 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.248.121.160-236.33.130.0.txt 2 3195852 3195852 1 
+13 90 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.185.206.106-239.186.41.231.txt 0 171185456 171185456 1 
+24 97 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.195-245.239.242.194.txt 0 568342472 568342472 1 
+17 113 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.13.35.23-0.3.117.73.txt 0 18594814 18594814 1 
+1 87 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/254.204.194.215-244.3.31.155.txt 0 288271644 288271644 1 
+6 109 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.159.140.39-0.3.117.94.txt 0 85485606 85485606 1 
+39 82 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.223.6.196-0.3.117.181.txt 0 738708735 738708735 1 
+60 116 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-77.197.67.116.txt 2 208657907 208657907 1 
+52 107 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.128-162.134.218.109.txt 2 275606115 275606115 1 
+38 101 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.203-3.189.189.4.txt 0 7292498 7292498 1 
+41 67 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.128.63.246-0.3.117.92.txt 2 233498749 233498749 1 
+39 127 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.83.245.119-238.22.111.211.txt 0 27866390 27866390 1 
+31 126 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.133.14.197-0.3.117.94.txt 1 463016691 463016691 1 
+36 74 11 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.175.195.29-0.3.117.49.txt 0 525692138 525692138 1 
+18 69 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.60.69.181-174.97.161.245.txt 0 513470830 513470830 1 
+3 97 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-145.67.194.231.txt 1 177916628 177916628 1 
+33 77 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.217.187-238.2.91.134.txt 0 21962294 21962294 1 
+62 119 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.83.149-115.43.103.80.txt 1 153093275 153093275 1 
+43 118 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.84.144-241.46.185.227.txt 0 87213208 87213208 1 
+33 118 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/165.230.73.40-252.44.58.170.txt 1 157879063 157879063 1 
+32 126 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.149.249-249.165.235.6.txt 0 603602715 603602715 1 
+46 91 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.71.10.10-0.3.117.91.txt 0 25243090 25243090 1 
+52 79 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-4.114.157.156.txt 0 374967212 374967212 1 
+8 66 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.17.3.80-0.3.117.188.txt 1 109113015 109113015 1 
+34 64 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.129.247.250-0.3.117.92.txt 2 130290608 130290608 1 
+47 77 36 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.233.144.88-0.3.117.94.txt 0 253905778 253905778 1 
+4 125 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.124.167.196-162.132.43.134.txt 1 264785998 264785998 1 
+55 77 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-115.40.92.25.txt 2 296639681 296639681 1 
+10 65 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.39.162.81-0.3.117.94.txt 0 303127548 303127548 1 
+42 96 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.126.210.31-140.139.147.25.txt 0 142631550 142631550 1 
+44 75 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.176-145.132.254.241.txt 2 572513835 572513835 1 
+44 110 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-40.136.164.225.txt 0 175660377 175660377 1 
+28 89 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.243.110.26-0.3.117.73.txt 1 51317832 51317832 1 
+1 78 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.223-161.187.52.229.txt 2 150538224 150538224 1 
+44 98 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.83.44.223-3.212.37.199.txt 2 9259213 9259213 1 
+48 108 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.236.149.58-140.157.254.103.txt 1 2526673 2526673 1 
+37 64 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.216-143.173.72.228.txt 0 353389263 353389263 1 
+7 95 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-219.16.184.160.txt 0 79955011 79955011 1 
+44 66 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.136.207.186.txt 2 739528115 739528115 1 
+36 77 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.115.149.92-0.3.117.94.txt 2 702732921 702732921 1 
+28 116 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.82.222.46-0.3.117.73.txt 2 668121689 668121689 1 
+43 111 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.52.96.224-0.3.117.73.txt 2 707982835 707982835 1 
+25 126 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.146.170.177-0.3.117.181.txt 0 72807470 72807470 1 
+4 116 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.159.247.99-0.3.117.180.txt 1 299133800 299133800 1 
+56 120 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.69.152.180-0.3.117.92.txt 2 276589520 276589520 1 
+52 87 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.157.97-241.188.36.4.txt 0 542452380 542452380 1 
+48 109 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.187.200.130-140.138.142.89.txt 1 56125794 56125794 1 
+28 70 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.97.126.113-236.207.13.247.txt 0 162976218 162976218 1 
+2 76 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.62.34.30-0.2.64.97.txt 1 87874734 87874734 1 
+17 64 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.146.113.197-0.3.117.91.txt 2 332449155 332449155 1 
+9 127 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.219.214.15-0.3.117.73.txt 0 59834363 59834363 1 
+24 99 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.234.48.199-0.3.117.181.txt 1 129111141 129111141 1 
+43 73 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.252.216.213-0.3.117.73.txt 0 272909125 272909125 1 
+27 66 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.82.65-241.188.36.134.txt 0 324471151 324471151 1 
+40 93 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.129-244.132.4.239.txt 1 172641618 172641618 1 
+53 121 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.15.206.65-0.3.117.181.txt 0 18902934 18902934 1 
+30 65 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.250.168.233-241.134.122.112.txt 2 758030444 758030444 1 
+21 112 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.21.75.234-0.3.117.188.txt 0 30577048 30577048 1 
+58 65 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.141.18.21-0.3.117.94.txt 0 257420177 257420177 1 
+21 120 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.116.205.33-1.88.78.85.txt 0 37746279 37746279 1 
+48 89 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.113.32.175-1.88.78.109.txt 2 276655718 276655718 1 
+55 64 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.154.20.60-245.51.10.243.txt 0 142964253 142964253 1 
+50 111 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.209.14.171-0.3.84.75.txt 1 89268019 89268019 1 
+30 87 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.136.191-243.182.207.112.txt 1 237351883 237351883 1 
+51 99 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.160.202-162.131.159.245.txt 0 735703928 735703928 1 
+37 77 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.183.194.103-236.33.1.209.txt 1 31910460 31910460 1 
+56 77 70 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.176-181.181.217.193.txt 1 278878599 278878599 1 
+60 73 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.246.249.241-252.44.154.209.txt 1 728560345 728560345 1 
+40 84 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.148.160.78-0.3.117.180.txt 0 103657884 103657884 1 
+1 113 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.42.132.230-0.3.117.183.txt 0 347144282 347144282 1 
+34 66 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.139.139.219-0.3.117.73.txt 2 164056875 164056875 1 
+0 121 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.115.46.1.txt 1 520470312 520470312 1 
+12 88 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.188.108.71-140.113.202.125.txt 0 340278092 340278092 1 
+29 89 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.57.199.206-115.35.235.72.txt 1 417083858 417083858 1 
+61 116 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.120.138.85-0.3.117.50.txt 0 622713946 622713946 1 
+46 93 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.120.132-138.147.248.187.txt 1 79722285 79722285 1 
+39 124 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.91.54-241.188.36.134.txt 1 48542032 48542032 1 
+56 109 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.26.209-4.185.158.238.txt 1 370560568 370560568 1 
+42 114 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.141.6.140-0.3.117.188.txt 1 698889277 698889277 1 
+32 94 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.220.155.23-162.132.41.161.txt 0 6753197 6753197 1 
+42 122 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.232-143.47.154.27.txt 2 285100391 285100391 1 
+15 96 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.125.182.137-0.3.117.73.txt 0 204109413 204109413 1 
+34 80 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.101.78.11-0.3.117.46.txt 1 62494572 62494572 1 
+30 78 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.128.121.42-0.3.117.70.txt 2 4328181 4328181 1 
+19 107 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.176.219.93-0.3.117.94.txt 1 584840244 584840244 1 
+1 82 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.95.243-241.188.48.144.txt 1 452408281 452408281 1 
+51 73 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.209.75.158-236.33.136.158.txt 0 149752840 149752840 1 
+50 65 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.54.192-238.2.91.136.txt 1 28071385 28071385 1 
+2 65 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.96.196-161.187.132.83.txt 2 463919403 463919403 1 
+27 65 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.176.53-115.50.150.68.txt 0 24473079 24473079 1 
+31 121 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.159.39-252.44.109.242.txt 0 30192792 30192792 1 
+19 104 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.235.39.122-0.3.117.94.txt 2 655532392 655532392 1 
+37 78 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.182.242.131-140.158.28.150.txt 1 540132888 540132888 1 
+12 114 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.3.238.99-140.157.247.107.txt 1 283202636 283202636 1 
+45 116 11 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.232.199.80-239.186.41.231.txt 2 674897274 674897274 1 
+60 99 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.143.212-236.67.150.5.txt 0 61532035 61532035 1 
+39 86 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.3.238.99-140.157.247.107.txt 2 198757571 198757571 1 
+11 107 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.61-115.43.255.116.txt 1 665623182 665623182 1 
+36 98 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.183-115.55.95.183.txt 0 284856455 284856455 1 
+52 101 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-3.52.250.105.txt 2 40118056 40118056 1 
+50 112 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.145.56.30-0.3.117.94.txt 2 436129599 436129599 1 
+37 91 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.251.97.6-0.3.117.94.txt 2 199876549 199876549 1 
+8 125 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.207.111.202-0.3.167.176.txt 2 612213196 612213196 1 
+20 94 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.163.11.181-236.207.217.72.txt 0 321004905 321004905 1 
+7 70 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.18.215.201-162.134.176.17.txt 0 42399724 42399724 1 
+42 104 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.192.254.237-0.3.117.180.txt 1 204330315 204330315 1 
+44 99 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.147-1.8.242.61.txt 0 257323468 257323468 1 
+5 80 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.198.19.93-0.3.117.181.txt 1 117554385 117554385 1 
+42 106 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.31.219.75-241.188.36.223.txt 1 553563867 553563867 1 
+3 88 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.88-239.186.122.219.txt 2 106856685 106856685 1 
+53 65 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.155-245.119.145.12.txt 0 717453811 717453811 1 
+20 67 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.241-115.43.162.45.txt 0 297238195 297238195 1 
+41 96 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-227.104.108.174.txt 1 201830915 201830915 1 
+50 123 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.120.39.152-140.128.166.3.txt 0 720287745 720287745 1 
+53 100 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.102.127.102-0.3.117.92.txt 0 292128413 292128413 1 
+43 96 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.77.225.120-0.3.117.92.txt 2 457848898 457848898 1 
+52 110 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.66.215.89-162.131.195.255.txt 2 274038674 274038674 1 
+26 67 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.206.254.2-162.140.243.228.txt 2 70297981 70297981 1 
+6 77 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.155.154.133-252.44.39.226.txt 0 644068876 644068876 1 
+55 125 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.24.51-252.44.169.70.txt 1 227557522 227557522 1 
+41 93 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.55-227.186.163.192.txt 2 34499229 34499229 1 
+12 80 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.57.134.149-128.232.99.206.txt 1 159117490 159117490 1 
+42 96 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.128-140.113.43.232.txt 0 2827382 2827382 1 
+25 122 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.103-244.132.79.28.txt 1 71560308 71560308 1 
+53 111 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.135.227-162.136.188.61.txt 0 221812435 221812435 1 
+44 82 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-115.44.42.172.txt 0 322364241 322364241 1 
+39 122 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.226.134.89-162.132.52.98.txt 0 46070285 46070285 1 
+42 95 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.209.73-115.44.136.179.txt 0 287044895 287044895 1 
+26 97 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.216-244.132.109.153.txt 0 120575850 120575850 1 
+9 119 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/147.133.253.24-0.3.117.94.txt 1 134208566 134208566 1 
+28 113 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.151.214.155-243.182.207.112.txt 2 2572434 2572434 1 
+31 81 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-124.219.213.92.txt 0 290183524 290183524 1 
+61 64 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.173.83.148-162.132.49.85.txt 1 231694303 231694303 1 
+32 120 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.9.169.29-162.132.100.190.txt 1 16864507 16864507 1 
+47 93 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/115.77.229.120-3.212.37.199.txt 0 462843520 462843520 1 
+44 96 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.113-245.73.92.110.txt 0 55174414 55174414 1 
+8 100 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.90.217.38-0.3.117.73.txt 0 360093246 360093246 1 
+57 125 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-244.128.147.161.txt 1 93710063 93710063 1 
+55 84 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.186.56-244.3.160.239.txt 2 421841574 421841574 1 
+7 65 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.9.152.11-0.3.117.180.txt 1 392192475 392192475 1 
+32 104 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.115.208.80.txt 1 598747699 598747699 1 
+20 66 66 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.143.212-245.56.37.182.txt 1 401630563 401630563 1 
+11 78 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.135.103.90-245.55.203.9.txt 0 269365276 269365276 1 
+24 110 39 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.235.251.84-0.3.117.94.txt 1 547081630 547081630 1 
+8 89 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.31.203.139-0.3.117.70.txt 0 24225610 24225610 1 
+8 90 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.214.215.246-140.157.191.203.txt 2 67972623 67972623 1 
+47 72 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.169-244.132.16.130.txt 0 645012701 645012701 1 
+32 74 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.232.28.13-0.3.117.94.txt 0 190379446 190379446 1 
+55 114 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.177.192.81-252.44.191.10.txt 2 261061757 261061757 1 
+33 96 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.169-244.132.118.71.txt 2 67323929 67323929 1 
+41 119 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.173.83.100-162.132.37.174.txt 0 134240092 134240092 1 
+29 67 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-219.16.184.160.txt 1 30624745 30624745 1 
+55 70 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.40.8.182-239.186.41.231.txt 2 428451213 428451213 1 
+24 123 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.67.97-162.133.193.254.txt 2 844266449 844266449 1 
+46 79 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.51-4.151.187.166.txt 0 525447347 525447347 1 
+36 105 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.32.132-241.188.36.223.txt 2 346152267 346152267 1 
+34 79 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.179-245.55.26.221.txt 0 378649310 378649310 1 
+40 75 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.146-162.133.82.253.txt 1 259444768 259444768 1 
+27 123 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.155.5.68-162.135.10.6.txt 2 645235264 645235264 1 
+57 75 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.82.65-241.188.36.141.txt 2 262680912 262680912 1 
+32 93 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.162.58.54-245.51.10.243.txt 2 384565910 384565910 1 
+29 107 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.210.123-41.177.26.91.txt 1 366391719 366391719 1 
+51 120 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.162.60-0.3.117.181.txt 2 238504340 238504340 1 
+28 66 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.226.129.118-0.3.117.70.txt 2 58822766 58822766 1 
+21 92 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.241.232.157-140.157.168.190.txt 0 346985995 346985995 1 
+5 94 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.146-244.132.117.9.txt 0 378362354 378362354 1 
+43 98 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/147.140.224.248-0.3.117.94.txt 1 688260692 688260692 1 
+44 126 66 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.187.22.158-0.3.117.181.txt 1 253862947 253862947 1 
+56 111 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.148.202.167-0.3.117.70.txt 2 306008431 306008431 1 
+37 109 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.57.199.204-115.51.23.12.txt 1 181473855 181473855 1 
+62 80 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/165.109.77.240-0.3.117.94.txt 1 130775984 130775984 1 
+46 85 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-140.122.101.89.txt 2 233231232 233231232 1 
+2 88 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.217.208.29-0.3.117.73.txt 2 69561576 69561576 1 
+38 83 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.129-162.133.74.62.txt 2 220282444 220282444 1 
+8 107 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.174.60.7-252.44.153.148.txt 1 15452331 15452331 1 
+12 124 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-41.177.135.193.txt 2 378408289 378408289 1 
+47 74 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.182.242.131-162.131.195.255.txt 1 192927531 192927531 1 
+27 110 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.169-244.132.29.254.txt 0 563961023 563961023 1 
+50 103 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.130.180.67-0.3.117.181.txt 2 299877826 299877826 1 
+13 85 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.75.3-252.208.125.72.txt 1 166469643 166469643 1 
+58 88 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/247.203.74.49-0.3.117.94.txt 1 155161389 155161389 1 
+51 97 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.135.202-162.136.150.44.txt 2 197129270 197129270 1 
+56 89 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.182.141-252.44.66.37.txt 2 163476455 163476455 1 
+55 73 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.189.58.170-236.33.84.230.txt 0 617578827 617578827 1 
+50 108 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.118.128-115.32.217.163.txt 0 250907996 250907996 1 
+19 109 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-245.253.75.22.txt 2 229305645 229305645 1 
+38 86 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.158.49.248-0.3.117.70.txt 1 299072428 299072428 1 
+42 115 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.52.12-241.188.36.226.txt 2 245791635 245791635 1 
+5 115 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/252.128.146.34-239.186.41.231.txt 1 225780277 225780277 1 
+59 70 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.175.97.txt 1 234011469 234011469 1 
+11 65 82 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.4.36-162.138.182.225.txt 2 47207265 47207265 1 
+51 85 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.209.73-4.150.25.218.txt 0 140882749 140882749 1 
+31 81 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.60-115.200.224.75.txt 1 122422657 122422657 1 
+53 101 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.165.239.111-0.3.117.180.txt 1 205713490 205713490 1 
+24 76 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.105-0.3.117.54.txt 1 338555205 338555205 1 
+45 116 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.173.15.txt 2 120781419 120781419 1 
+50 120 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.204-115.42.247.74.txt 1 178082577 178082577 1 
+42 124 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.115.77.253-236.67.3.20.txt 0 659978800 659978800 1 
+6 79 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.141.135-162.131.209.252.txt 1 284284739 284284739 1 
+62 118 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.15-77.197.128.139.txt 2 669139240 669139240 1 
+6 71 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/184.75.203.161-41.177.26.176.txt 2 3698106 3698106 1 
+57 124 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.109.204.183-244.132.157.250.txt 0 166634147 166634147 1 
+48 126 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.106.195.235-0.3.117.94.txt 2 128471288 128471288 1 
+11 88 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.213.165.93-252.44.102.95.txt 0 137524848 137524848 1 
+23 115 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.155.81.251-0.3.117.94.txt 0 336067485 336067485 1 
+55 103 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-115.51.209.43.txt 1 207676284 207676284 1 
+13 105 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.57.2.196-115.51.16.227.txt 0 351691463 351691463 1 
+2 122 40 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.97.112.140-236.68.110.209.txt 1 599719309 599719309 1 
+3 81 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.15-77.197.127.164.txt 2 342857030 342857030 1 
+34 119 59 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.133.14.197-0.3.117.94.txt 2 405638189 405638189 1 
+42 81 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.134.72.15-162.131.254.67.txt 1 303669712 303669712 1 
+3 101 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.154.40.235-0.3.117.183.txt 0 87587842 87587842 1 
+26 121 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/71.242.192.251-140.157.128.240.txt 0 213472928 213472928 1 
+48 103 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.247-115.46.54.229.txt 2 354205321 354205321 1 
+56 117 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.31.127.169-241.188.36.207.txt 1 257685965 257685965 1 
+32 95 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.148.103.11-0.3.117.91.txt 2 120597722 120597722 1 
+57 124 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.96.196-227.196.3.115.txt 2 500844026 500844026 1 
+7 120 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.181.13.190-140.118.37.224.txt 0 233384074 233384074 1 
+50 112 80 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.67.103-140.113.39.14.txt 0 30635904 30635904 1 
+37 116 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.91-33.57.213.186.txt 0 37111458 37111458 1 
+4 117 36 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.81.251.217-0.3.117.73.txt 0 168864156 168864156 1 
+9 85 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.69.242.128-162.135.141.119.txt 0 290047901 290047901 1 
+15 119 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-238.198.126.24.txt 1 273487355 273487355 1 
+27 73 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.106.15-241.188.36.72.txt 0 635173328 635173328 1 
+1 101 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.169-244.132.46.209.txt 1 297355332 297355332 1 
+35 81 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.204-128.232.99.211.txt 2 282848663 282848663 1 
+2 115 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-244.132.40.36.txt 0 460836106 460836106 1 
+62 76 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.253.62.115-236.33.114.126.txt 1 576218052 576218052 1 
+24 72 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.151.228.81-115.53.103.154.txt 0 7060577 7060577 1 
+35 99 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.223.211.110-236.207.157.129.txt 1 124313904 124313904 1 
+42 99 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.146-244.132.17.244.txt 0 431012934 431012934 1 
+54 99 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.89.76.92-0.3.117.181.txt 0 63374524 63374524 1 
+11 71 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.170.139.114-0.3.117.94.txt 1 482471913 482471913 1 
+15 95 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.235.73.61-0.3.117.92.txt 1 281134153 281134153 1 
+33 109 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/1.68.4.95-0.3.117.94.txt 1 17230906 17230906 1 
+1 66 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.119.49.149-0.3.117.73.txt 1 745319177 745319177 1 
+19 68 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.213.188.250-162.132.6.106.txt 1 55324582 55324582 1 
+35 90 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.54.87-241.46.212.15.txt 0 144194938 144194938 1 
+8 69 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.237.17.124-0.3.117.181.txt 1 61601806 61601806 1 
+15 113 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.209.73-4.116.66.133.txt 0 523524520 523524520 1 
+40 115 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.169.101-242.43.215.65.txt 1 16926179 16926179 1 
+31 113 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/1.68.220.4-0.3.117.91.txt 0 70049434 70049434 1 
+41 95 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/242.122.195.234-162.131.195.254.txt 1 41217328 41217328 1 
+13 76 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.220.7.134-0.3.117.94.txt 0 67936062 67936062 1 
+18 77 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.238.93.205-0.3.117.94.txt 2 59197633 59197633 1 
+1 114 40 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.97.114.106-162.158.197.192.txt 0 702913070 702913070 1 
+4 127 42 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.187.247.53-162.138.155.131.txt 1 360466117 360466117 1 
+60 71 11 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.250.169.58-143.111.33.213.txt 0 385899071 385899071 1 
+15 77 11 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.61-0.245.25.251.txt 0 768722152 768722152 1 
+28 65 49 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.17.63.211-239.186.41.231.txt 2 699741948 699741948 1 
+47 87 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.15-77.197.210.164.txt 2 5538114 5538114 1 
+42 121 9 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.15-105.144.38.139.txt 2 115230417 115230417 1 
+17 88 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.172.175.100-0.3.90.246.txt 1 61697957 61697957 1 
+37 98 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.54-4.114.153.190.txt 1 105238979 105238979 1 
+38 82 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-239.180.216.148.txt 2 230072067 230072067 1 
+8 109 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/228.54.196.176-0.3.84.75.txt 1 59536241 59536241 1 
+3 67 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.67.112-162.138.208.71.txt 2 25603708 25603708 1 
+29 101 15 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.245.199.104-0.3.117.54.txt 0 397725436 397725436 1 
+44 103 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.142.210-41.177.98.176.txt 1 3611209 3611209 1 
+54 113 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.247.213.253-0.3.117.181.txt 1 379259869 379259869 1 
+48 98 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/5.106.204.116-244.132.30.110.txt 1 307540503 307540503 1 
+24 108 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.105.208-4.118.192.222.txt 2 60471158 60471158 1 
+56 73 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.108.213.84-0.3.117.94.txt 0 22095457 22095457 1 
+5 86 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.179-140.115.71.4.txt 2 490819620 490819620 1 
+60 122 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-162.138.236.30.txt 1 50062357 50062357 1 
+12 121 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-162.136.132.198.txt 2 423790648 423790648 1 
+7 72 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.238.74.43-162.134.82.1.txt 2 243549531 243549531 1 
+32 69 33 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.111.180.25-0.3.117.187.txt 0 277976750 277976750 1 
+31 65 70 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-140.158.26.40.txt 0 235629598 235629598 1 
+41 75 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.237.2.232-0.3.117.187.txt 1 9760262 9760262 1 
+38 94 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.223-244.162.144.124.txt 2 384663568 384663568 1 
+37 121 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.141-236.68.77.55.txt 1 243769007 243769007 1 
+48 106 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.104.247.134-0.3.117.94.txt 2 23151459 23151459 1 
+17 106 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.207.232-162.131.175.250.txt 2 320493761 320493761 1 
+19 103 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.121.241-236.67.87.197.txt 0 74995071 74995071 1 
+52 94 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.107.232.76-239.186.41.231.txt 0 32172576 32172576 1 
+55 68 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.160.107.254-162.131.199.254.txt 0 202627163 202627163 1 
+61 121 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/5.106.200.43-227.22.93.251.txt 0 101227735 101227735 1 
+9 115 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.166-238.252.190.244.txt 0 559788894 559788894 1 
+21 108 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.134.127.175-245.56.93.160.txt 1 777705380 777705380 1 
+47 113 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.142.238-245.56.5.123.txt 1 589188679 589188679 1 
+35 92 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.140.202-0.3.117.92.txt 0 810064552 810064552 1 
+63 103 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-244.132.126.12.txt 2 383293879 383293879 1 
+36 97 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.145.215.183-0.3.117.181.txt 2 590279677 590279677 1 
+6 83 59 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.179.237.106-0.3.117.180.txt 2 826733003 826733003 1 
+54 105 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.17.64.212-0.3.117.55.txt 0 177201766 177201766 1 
+16 86 49 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.113.32.192-1.88.78.109.txt 1 198232116 198232116 1 
+52 84 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.121.7.114-227.186.138.225.txt 1 389690333 389690333 1 
+11 77 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.193.226.16-0.3.117.180.txt 1 62302935 62302935 1 
+38 76 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.148.239.199-0.3.117.181.txt 2 91749972 91749972 1 
+44 116 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.68-240.169.235.180.txt 0 303252142 303252142 1 
+8 67 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.164.173.10-241.188.36.141.txt 0 26131225 26131225 1 
+32 96 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.194-115.35.87.215.txt 1 123931320 123931320 1 
+59 78 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.147.27.84-140.119.3.226.txt 0 165874540 165874540 1 
+46 65 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.210.51-41.177.26.15.txt 0 9724051 9724051 1 
+24 75 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.169-249.251.123.61.txt 0 642559745 642559745 1 
+31 95 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/68.157.168.89-41.177.26.176.txt 0 399468239 399468239 1 
+4 82 39 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-244.132.4.41.txt 0 327617483 327617483 1 
+60 97 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.121.133-245.49.239.11.txt 1 788626864 788626864 1 
+29 78 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.37.168.180-244.132.29.84.txt 0 158867748 158867748 1 
+13 88 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.64.86-162.157.214.63.txt 1 554265328 554265328 1 
+29 101 84 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.43.183.141-162.131.191.252.txt 0 261184609 261184609 1 
+29 95 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-115.47.39.242.txt 1 248625268 248625268 1 
+10 92 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.98.176-41.177.2.124.txt 1 480204517 480204517 1 
+32 66 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-153.125.4.83.txt 0 175489671 175489671 1 
+16 114 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.177.238.94-245.51.67.180.txt 1 23977694 23977694 1 
+28 107 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.19.196.70-241.46.218.115.txt 0 32132564 32132564 1 
+19 104 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.195.203.51-241.46.218.120.txt 1 501059710 501059710 1 
+0 112 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/224.96.152.174-0.3.117.180.txt 1 2349617 2349617 1 
+16 74 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.139-115.34.212.237.txt 0 148014366 148014366 1 
+57 126 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.240.193.3-140.115.142.10.txt 2 136010951 136010951 1 
+25 72 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.29.152.175-245.56.129.69.txt 2 279257780 279257780 1 
+24 80 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.177.56.55-162.134.200.23.txt 2 121667717 121667717 1 
+18 65 70 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.27.89.161-0.3.117.92.txt 1 564537696 564537696 1 
+61 64 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/5.106.200.63-115.13.54.245.txt 0 136835748 136835748 1 
+37 125 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.151.202.234-1.88.78.61.txt 1 105331120 105331120 1 
+21 95 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.237.251.7-162.131.80.5.txt 1 354764921 354764921 1 
+51 98 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.87.32.29-0.3.117.46.txt 1 51792512 51792512 1 
+48 108 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.86.180.180-0.3.117.49.txt 0 99023646 99023646 1 
+6 95 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.77.110-140.157.51.247.txt 2 103684983 103684983 1 
+53 113 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.199.111-41.177.98.176.txt 0 65106381 65106381 1 
+51 125 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.238.22.108-162.139.108.11.txt 1 383227810 383227810 1 
+46 80 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.17.168.246-0.3.117.40.txt 0 98913164 98913164 1 
+10 108 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.159.49.97-140.112.111.179.txt 2 63210641 63210641 1 
+15 118 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.97.155.188-0.3.117.54.txt 1 166057699 166057699 1 
+52 79 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.144.23.89-162.136.59.148.txt 1 3947349 3947349 1 
+29 101 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.156.233.47-0.3.117.180.txt 0 185155561 185155561 1 
+38 114 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.131-244.132.59.212.txt 0 332746845 332746845 1 
+45 116 67 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.13.228.44-143.173.93.105.txt 0 661804665 661804665 1 
+33 102 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.85.48.58-0.3.117.94.txt 2 311435003 311435003 1 
+11 71 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.4.183-241.188.36.134.txt 2 280899481 280899481 1 
+37 127 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.141.52.220-0.3.117.184.txt 1 77043288 77043288 1 
+61 118 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.98.176-244.3.199.180.txt 2 192619341 192619341 1 
+41 124 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.239.99.237-0.3.117.92.txt 1 174131932 174131932 1 
+0 115 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.248-41.177.26.55.txt 1 70018278 70018278 1 
+60 124 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.161.153.38-227.186.136.166.txt 0 461690977 461690977 1 
+1 127 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.78.71.162-0.3.117.73.txt 1 584253426 584253426 1 
+46 86 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.177.192.81-252.44.185.245.txt 2 614524329 614524329 1 
+6 77 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.119.49.149-0.3.117.73.txt 2 359029376 359029376 1 
+57 125 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.172.159.224-162.138.176.243.txt 0 898422182 898422182 1 
+0 106 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/243.183.152.31-0.3.118.164.txt 2 394038706 394038706 1 
+62 69 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.97.109.179-140.136.252.66.txt 2 147348329 147348329 1 
+49 92 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.247-115.41.178.56.txt 2 532753978 532753978 1 
+9 112 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.186.212.47-252.44.7.179.txt 2 336852545 336852545 1 
+30 111 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.38.34.12-140.143.181.162.txt 2 51098953 51098953 1 
+21 110 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.149.143.212-162.137.88.60.txt 1 543798551 543798551 1 
+56 84 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-162.133.79.246.txt 1 48663925 48663925 1 
+45 89 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/247.140.226.110-0.3.117.94.txt 0 249893048 249893048 1 
+55 123 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.130.11.23-162.131.255.0.txt 2 590864256 590864256 1 
+43 122 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.178.228-0.3.117.183.txt 1 110709163 110709163 1 
+28 81 25 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.22.88.27-0.3.117.188.txt 0 146885059 146885059 1 
+14 118 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/1.61.161.11-244.132.111.5.txt 2 60122128 60122128 1 
+9 107 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.136.132.198.txt 1 112854916 112854916 1 
+15 123 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.55.225-241.188.36.5.txt 2 480336030 480336030 1 
+27 103 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.88.243-0.3.117.94.txt 1 28787596 28787596 1 
+10 86 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.207.71-245.55.23.30.txt 0 111245040 111245040 1 
+20 68 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.152.55.87-140.157.52.121.txt 0 70723967 70723967 1 
+58 95 65 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.42.22-245.55.147.230.txt 1 208953315 208953315 1 
+22 85 70 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.253.145.41-162.131.72.14.txt 0 161207050 161207050 1 
+54 123 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.130.34.237-162.132.187.153.txt 1 418913108 418913108 1 
+28 121 80 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.79.175-241.188.36.4.txt 2 359819591 359819591 1 
+20 103 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.227-115.36.14.216.txt 1 267095549 267095549 1 
+27 120 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.95.14.209-0.3.117.92.txt 1 428516618 428516618 1 
+46 76 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.231.29.5-244.132.129.213.txt 0 377064972 377064972 1 
+15 109 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.97.127.115-162.132.104.209.txt 2 77667691 77667691 1 
+27 98 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.20.47.15-0.3.117.40.txt 1 15892815 15892815 1 
+51 66 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.5.168.229-0.3.117.187.txt 1 14013426 14013426 1 
+14 64 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/158.60.254.121-162.132.94.142.txt 2 111704897 111704897 1 
+17 94 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.223-115.44.148.178.txt 2 49933943 49933943 1 
+57 88 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.139-115.55.76.171.txt 1 4743874 4743874 1 
+33 110 98 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.2.141.5-227.250.71.176.txt 1 58348138 58348138 1 
+5 111 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.128-140.134.92.4.txt 2 266080773 266080773 1 
+14 109 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/247.223.113.87-239.186.122.220.txt 0 444517306 444517306 1 
+55 76 62 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.27.114.196-241.188.36.133.txt 1 38701676 38701676 1 
+19 72 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.186.136.100-0.3.117.73.txt 2 2783385 2783385 1 
+18 117 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.246.182.85-162.157.0.19.txt 2 89242401 89242401 1 
+14 117 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.243.116.122-252.44.200.95.txt 2 773509301 773509301 1 
+33 81 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.111.21.123-0.3.117.187.txt 1 234676140 234676140 1 
+39 73 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/215.13.66.186-244.3.160.239.txt 0 17537155 17537155 1 
+46 104 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/131.121.229.83-0.61.216.139.txt 2 630482485 630482485 1 
+13 97 34 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.235.199.181-243.182.207.112.txt 1 184589554 184589554 1 
+28 89 57 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.157.132.253-0.3.117.94.txt 0 48418397 48418397 1 
+31 119 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.248.120-244.3.31.155.txt 1 60837512 60837512 1 
+54 71 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.139.228.136-140.122.107.211.txt 1 32870189 32870189 1 
+17 71 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.103.54.95-0.3.117.94.txt 0 286875369 286875369 1 
+9 111 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-162.135.145.184.txt 0 843718956 843718956 1 
+39 105 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.217.225.58-0.3.117.94.txt 0 240076772 240076772 1 
+16 122 40 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.89.154-1.88.78.240.txt 2 66723247 66723247 1 
+8 106 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.233.162.166-140.157.133.124.txt 2 241624366 241624366 1 
+47 126 41 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.201.134-236.207.135.247.txt 1 133226417 133226417 1 
+40 97 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.251.63.42-0.3.117.94.txt 2 606996092 606996092 1 
+4 99 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.58.107.216-0.3.117.71.txt 2 55997845 55997845 1 
+13 104 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.145.136.194-0.3.117.180.txt 1 231712562 231712562 1 
+44 75 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.247-244.132.59.5.txt 0 25808047 25808047 1 
+47 112 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.95.64-252.208.32.240.txt 0 127527540 127527540 1 
+56 121 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.139.229.161-245.55.147.230.txt 1 92697750 92697750 1 
+48 103 61 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.135.52.145-245.51.80.209.txt 2 151130173 151130173 1 
+45 125 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.175.153.txt 2 168931304 168931304 1 
+58 116 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.243.112.85-0.3.117.70.txt 2 295912554 295912554 1 
+35 69 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.180.154.107-236.207.195.8.txt 1 18605692 18605692 1 
+53 76 32 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/1.18.107.236-0.3.117.73.txt 2 73946627 73946627 1 
+46 73 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.4.49.83-162.140.63.38.txt 0 203537563 203537563 1 
+48 86 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.245.177.236-0.3.117.184.txt 1 58449459 58449459 1 
+53 97 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.79.172.187-0.3.117.92.txt 0 218033062 218033062 1 
+52 74 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.73-4.149.88.25.txt 2 364911414 364911414 1 
+30 121 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.2.221.27-241.188.36.4.txt 1 66888610 66888610 1 
+48 66 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.215.246.243-162.137.79.20.txt 2 217092641 217092641 1 
+54 127 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.193.165.177-162.131.209.254.txt 2 76245485 76245485 1 
+18 83 76 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.230-153.125.12.82.txt 2 161290408 161290408 1 
+3 111 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-239.150.247.138.txt 0 86745538 86745538 1 
+49 82 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.223-4.150.79.3.txt 2 66975953 66975953 1 
+17 65 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.213.219-143.165.148.139.txt 1 28684413 28684413 1 
+52 96 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.97.207.79-245.147.189.238.txt 0 312342948 312342948 1 
+4 121 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/107.220.176.227-0.3.117.94.txt 0 678789085 678789085 1 
+17 83 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.247-115.44.175.11.txt 0 554723008 554723008 1 
+45 119 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.129.177.71-0.3.117.188.txt 2 142217238 142217238 1 
+9 97 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/228.22.49.194-162.132.97.74.txt 2 113051828 113051828 1 
+14 117 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.73.196.163-0.3.117.94.txt 0 54230892 54230892 1 
+20 86 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-140.115.237.192.txt 2 148452266 148452266 1 
+28 73 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.25.40.100-140.118.26.127.txt 0 186953324 186953324 1 
+60 91 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/253.37.253.31-253.160.108.83.txt 2 569547120 569547120 1 
+59 113 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.236.48.122-0.3.117.183.txt 2 385526890 385526890 1 
+50 105 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.133.8.5-252.44.186.128.txt 0 130387650 130387650 1 
+17 109 78 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.247-3.216.203.30.txt 0 14716673 14716673 1 
+56 93 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/68.157.168.135-244.3.210.197.txt 1 561200331 561200331 1 
+17 87 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.192.254.237-0.3.117.181.txt 2 95270328 95270328 1 
+36 98 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.150.8.13-252.44.36.220.txt 1 101009289 101009289 1 
+6 114 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.244.176.165-0.3.117.92.txt 2 124782075 124782075 1 
+51 72 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.242.207.117-162.132.168.41.txt 1 86513940 86513940 1 
+57 100 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.85.114.132-0.3.117.187.txt 2 861899189 861899189 1 
+47 85 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.129.178.224-0.3.117.184.txt 1 18675944 18675944 1 
+55 85 94 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.27.118.95-241.188.37.75.txt 1 10165756 10165756 1 
+8 78 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.176-176.186.164.130.txt 2 247820607 247820607 1 
+20 65 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.232.18.183-0.3.117.94.txt 2 291356053 291356053 1 
+49 99 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-241.8.55.104.txt 2 140071335 140071335 1 
+55 85 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.169.232.51-238.86.212.236.txt 1 39917201 39917201 1 
+44 125 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.195.254.209-244.132.116.192.txt 2 79642033 79642033 1 
+53 109 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.18.214.119-245.49.134.172.txt 2 125112408 125112408 1 
+12 99 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.74.17-227.221.233.86.txt 2 45451954 45451954 1 
+8 119 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-236.207.213.61.txt 2 49560499 49560499 1 
+46 72 72 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.69.248.223-162.132.187.153.txt 0 34356686 34356686 1 
+61 127 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.144.104.25-239.186.122.215.txt 0 116437455 116437455 1 
+59 107 66 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.160.202-162.131.159.243.txt 2 18471528 18471528 1 
+52 100 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/228.217.159.239-140.115.227.93.txt 2 26018412 26018412 1 
+26 115 48 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.154.223-162.136.36.4.txt 2 324259168 324259168 1 
+46 74 51 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/252.84.83.186-0.3.117.183.txt 2 279443585 279443585 1 
+60 122 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.233.48.111-0.3.117.94.txt 0 68740843 68740843 1 
+62 123 97 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.117.123.89-0.3.117.94.txt 2 197331923 197331923 1 
+27 102 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.48-115.40.220.242.txt 0 230634522 230634522 1 
+44 101 37 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.239-40.248.244.39.txt 2 26463562 26463562 1 
+14 72 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.113.214.211.txt 1 677275593 677275593 1 
+35 87 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.71.176.1-140.157.18.105.txt 1 108115195 108115195 1 
+58 79 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.134.127.175-236.207.180.52.txt 1 347192284 347192284 1 
+18 107 86 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.85.17-244.3.160.239.txt 2 388603179 388603179 1 
+29 80 43 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.145-236.32.98.70.txt 1 231750307 231750307 1 
+37 97 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.135.248.87-245.51.213.83.txt 1 48737176 48737176 1 
+27 89 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.238.47.238-162.138.167.252.txt 2 81659703 81659703 1 
+45 86 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.54-153.125.212.113.txt 1 48338233 48338233 1 
+2 108 89 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.130-162.138.138.6.txt 0 65352739 65352739 1 
+0 93 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.100.67.43-227.137.165.152.txt 0 35635669 35635669 1 
+41 124 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.158.45.119-0.3.117.94.txt 1 294133145 294133145 1 
+21 67 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.86-241.8.232.155.txt 0 132177886 132177886 1 
+13 84 36 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.2.126.187-241.188.36.134.txt 0 719828875 719828875 1 
+3 80 36 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.60.114-245.51.115.12.txt 1 6346488 6346488 1 
+49 98 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.103-162.136.65.215.txt 2 300569383 300569383 1 
+11 83 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.248.203-241.46.247.144.txt 0 59405526 59405526 1 
+54 123 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.18.166.70-0.3.117.94.txt 1 414276772 414276772 1 
+56 93 96 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.124-244.132.125.19.txt 2 416683551 416683551 1 
+7 95 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.221-115.214.213.192.txt 1 393969354 393969354 1 
+1 125 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/245.32.159.83-0.3.117.94.txt 2 215737319 215737319 1 
+4 127 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.138-244.132.46.224.txt 1 247136199 247136199 1 
+41 108 50 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.234.99.173-0.3.117.92.txt 1 823336928 823336928 1 
+6 93 77 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/100.175.216.115-0.3.117.180.txt 0 97038027 97038027 1 
+34 67 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.142.100-244.3.160.239.txt 2 445769539 445769539 1 
+47 103 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/147.132.214.186-0.3.117.94.txt 2 722809658 722809658 1 
+3 81 13 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.173.108-153.125.237.34.txt 2 465300320 465300320 1 
+55 118 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.160.187.114-162.138.198.92.txt 0 30471601 30471601 1 
+43 116 21 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.234.28.239-0.3.117.181.txt 0 43855497 43855497 1 
+30 83 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.3.94.79-241.188.48.159.txt 1 229404661 229404661 1 
+33 109 39 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.239-143.47.154.155.txt 0 13092105 13092105 1 
+33 68 81 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.236.149.58-140.157.254.103.txt 1 120465365 120465365 1 
+33 96 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.130.95.125-0.3.117.94.txt 2 163459686 163459686 1 
+20 120 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-244.132.58.253.txt 1 321197357 321197357 1 
+9 79 19 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.98.176-82.242.77.108.txt 1 277027479 277027479 1 
+47 72 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.247-244.132.46.246.txt 2 282318537 282318537 1 
+13 68 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/41.177.26.91-77.197.128.47.txt 0 165350319 165350319 1 
+21 97 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.223.255-245.51.108.1.txt 1 638988014 638988014 1 
+45 78 26 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.71.176.36-0.3.90.252.txt 2 345543369 345543369 1 
+14 114 63 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.81.10-162.131.126.17.txt 2 431151099 431151099 1 
+31 123 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.206.193-1.88.78.240.txt 2 334056901 334056901 1 
+24 69 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.44.73-245.252.200.142.txt 0 244590402 244590402 1 
+9 92 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.160.17.181-140.130.16.250.txt 1 11386326 11386326 1 
+58 102 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.143.248-0.3.117.180.txt 1 128856270 128856270 1 
+48 103 30 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.239-241.46.230.24.txt 2 674728316 674728316 1 
+6 96 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.10.67.30-241.188.36.223.txt 2 827367617 827367617 1 
+29 119 46 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.16.248.63-0.3.117.50.txt 1 570773808 570773808 1 
+13 81 69 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.164-242.49.210.11.txt 2 576291064 576291064 1 
+22 122 95 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.130.188.181-0.3.117.180.txt 1 171133830 171133830 1 
+35 93 74 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.166.252.143-140.139.170.57.txt 2 29363010 29363010 1 
+24 115 68 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/215.43.132.151-244.3.210.197.txt 1 301636328 301636328 1 
+36 83 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-254.41.47.156.txt 2 499413188 499413188 1 
+25 75 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.252.219-0.3.117.180.txt 0 140019772 140019772 1 
+63 111 23 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.169.190.58-238.2.91.134.txt 0 18588175 18588175 1 
+7 75 16 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/243.30.44.112-162.131.195.254.txt 1 235149848 235149848 1 
+30 91 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.53.194.11-239.186.122.220.txt 1 97352415 97352415 1 
+41 74 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.164.230.204-252.44.4.247.txt 1 88925149 88925149 1 
+62 107 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/249.159.243.153-0.3.117.94.txt 1 120646119 120646119 1 
+2 118 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-140.128.141.56.txt 0 61201833 61201833 1 
+6 106 38 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.134.127.175-236.207.174.134.txt 2 91854833 91854833 1 
+22 109 71 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.2.226.220-239.186.41.231.txt 2 390057156 390057156 1 
+31 87 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.223.132.174-115.52.167.164.txt 1 28693288 28693288 1 
+49 120 88 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.27.139.164-162.138.126.130.txt 2 574786399 574786399 1 
+25 127 31 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.185.175.140-0.3.117.181.txt 1 47341498 47341498 1 
+8 125 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-89.47.224.211.txt 2 346358689 346358689 1 
+55 103 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.169.110-240.224.104.202.txt 1 220223957 220223957 1 
+10 100 12 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.21.120.154-0.3.117.188.txt 1 442257395 442257395 1 
+51 123 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.243.124.80-162.135.0.173.txt 2 102469869 102469869 1 
+50 69 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.21.126.30-0.3.117.188.txt 0 171838055 171838055 1 
+24 67 93 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/139.152.196.103-239.186.122.220.txt 1 135614338 135614338 1 
+31 110 100 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.207.232-4.150.156.127.txt 2 7236990 7236990 1 
+48 104 44 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.33.114.135-162.132.187.153.txt 2 72146868 72146868 1 
+4 78 92 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.159.188.213-0.3.117.181.txt 0 262659672 262659672 1 
+56 77 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/237.150.241.67-0.3.117.180.txt 2 206387770 206387770 1 
+19 85 10 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.234.17.95-252.44.124.249.txt 2 159734773 159734773 1 
+38 65 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/2.129.110.52-0.3.117.92.txt 2 207086481 207086481 1 
+16 75 55 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.247.112.247-143.173.28.44.txt 0 286498411 286498411 1 
+37 81 17 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.223.76.37-0.3.117.94.txt 1 100413495 100413495 1 
+17 96 39 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/4.20.91.38-239.186.41.231.txt 0 74024972 74024972 1 
+50 90 58 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.119-244.132.67.252.txt 2 2412025 2412025 1 
+50 98 47 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.189.50.163-162.131.195.255.txt 1 43592241 43592241 1 
+22 92 87 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.5.190.10-0.3.117.188.txt 1 7187414 7187414 1 
+49 119 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.147-0.123.30.1.txt 0 208536019 208536019 1 
+43 123 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/241.46.69.235-236.32.55.9.txt 0 358264147 358264147 1 
+4 82 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.213.188.249-162.157.0.19.txt 0 202040755 202040755 1 
+45 111 45 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.181.79.64-0.3.117.94.txt 1 49210093 49210093 1 
+1 93 83 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.145.92.184-0.3.117.92.txt 2 25304660 25304660 1 
+17 68 14 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.210.197-77.197.128.224.txt 2 244801166 244801166 1 
+5 89 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.84.68.178-0.3.117.94.txt 1 220604885 220604885 1 
+35 95 20 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.61-0.187.229.168.txt 1 62663204 62663204 1 
+18 75 56 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.160.186-41.177.26.214.txt 0 132422001 132422001 1 
+4 97 54 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/171.238.21.42-0.3.117.94.txt 0 64437808 64437808 1 
+15 74 35 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.31.139-252.17.127.131.txt 2 292101560 292101560 1 
+18 104 28 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-4.151.61.165.txt 1 4393121 4393121 1 
+34 112 22 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/227.139.29.119-162.132.45.130.txt 1 20677099 20677099 1 
+8 124 18 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/236.155.23.19-162.141.212.66.txt 0 47482415 47482415 1 
+15 66 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.129.191.226-245.49.76.74.txt 0 25395420 25395420 1 
+11 72 85 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/225.239.144.96-252.44.4.242.txt 0 159683961 159683961 1 
+41 64 52 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.137.22.45-0.3.117.181.txt 0 2049081 2049081 1 
+3 92 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/89.47.253.220-244.3.210.197.txt 2 132507672 132507672 1 
+48 87 29 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/238.223.132.38-244.132.27.254.txt 2 5417513 5417513 1 
+38 68 79 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.2.74.196-239.178.45.245.txt 1 677921038 677921038 1 
+14 103 90 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.144.7.114-162.132.55.178.txt 2 677527456 677527456 1 
+30 103 75 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.187.83.136-3.160.253.222.txt 2 79381135 79381135 1 
+7 118 73 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/3.74.82.65-241.188.36.141.txt 2 59593591 59593591 1 
+52 92 24 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/239.186.251.200-227.118.161.5.txt 2 167206865 167206865 1 
+61 71 11 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.141.77.110-162.131.254.70.txt 1 325343681 325343681 1 
+34 71 60 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/0.3.220.171-244.132.40.57.txt 2 124874863 124874863 1 
+30 76 64 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.3.185.209-41.177.98.176.txt 1 7382747 7382747 1 
+3 92 53 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.30.161.24-245.56.122.210.txt 0 752532043 752532043 1 
+10 87 91 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/244.23.160.196-162.136.188.61.txt 0 17891380 17891380 1 
+16 121 99 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/77.197.210.51-41.177.26.15.txt 0 318941576 318941576 1 
+4 94 27 /home/dengqi/eclipse-workspace/ns327/traces/origin_traces/HTTP/69.246.151.170-0.3.117.92.txt 1 326332789 326332789 1 
+915
+100 90 1
+74 87 1
+74 51 1
+109 16 1
+87 24 1
+124 20 1
+81 97 1
+120 65 1
+119 95 1
+74 20 1
+93 51 1
+126 24 1
+77 69 1
+99 52 1
+77 36 1
+94 55 1
+83 54 1
+83 100 1
+83 81 1
+103 69 1
+72 56 1
+86 69 1
+92 53 1
+117 44 1
+75 56 1
+80 38 1
+88 21 1
+68 51 1
+66 23 1
+67 21 1
+126 12 1
+79 68 1
+103 75 1
+65 55 1
+121 27 1
+122 54 1
+86 77 1
+97 74 1
+66 55 1
+106 69 1
+109 97 1
+78 76 1
+80 64 1
+69 24 1
+117 13 1
+121 79 1
+79 66 1
+94 100 1
+108 98 1
+70 55 1
+122 42 1
+90 81 1
+74 11 1
+111 78 1
+97 79 1
+99 56 1
+83 32 1
+78 48 1
+118 92 1
+112 58 1
+89 84 1
+125 27 1
+109 84 1
+100 99 1
+125 71 1
+92 24 1
+107 90 1
+122 40 1
+93 96 1
+74 65 1
+104 42 1
+95 20 1
+125 91 1
+83 61 1
+122 95 1
+117 60 1
+83 82 1
+109 31 1
+98 20 1
+77 70 1
+77 59 1
+120 88 1
+109 39 1
+76 52 1
+94 47 1
+114 40 1
+124 88 1
+123 59 1
+73 10 1
+88 24 1
+93 74 1
+78 75 1
+115 74 1
+103 19 1
+74 35 1
+116 33 1
+67 58 1
+87 51 1
+93 17 1
+112 86 1
+100 58 1
+102 91 1
+122 68 1
+97 46 1
+73 41 1
+124 18 1
+100 76 1
+79 35 1
+73 14 1
+73 28 1
+71 89 1
+115 99 1
+106 28 1
+76 31 1
+109 20 1
+120 15 1
+119 35 1
+93 71 1
+106 75 1
+118 13 1
+125 67 1
+66 92 1
+92 68 1
+105 23 1
+80 43 1
+67 27 1
+79 49 1
+86 74 1
+71 62 1
+95 14 1
+121 31 1
+88 68 1
+109 71 1
+101 47 1
+85 28 1
+85 62 1
+114 87 1
+86 49 1
+68 14 1
+92 81 1
+94 30 1
+69 73 1
+96 20 1
+72 89 1
+97 38 1
+68 40 1
+126 65 1
+109 25 1
+118 71 1
+116 67 1
+70 100 1
+74 49 1
+109 64 1
+95 62 1
+93 83 1
+117 41 1
+95 74 1
+98 43 1
+118 26 1
+75 82 1
+127 31 1
+64 57 1
+96 28 1
+126 66 1
+98 31 1
+73 12 1
+77 11 1
+68 98 1
+101 30 1
+72 96 1
+118 87 1
+84 36 1
+81 17 1
+109 54 1
+74 9 1
+107 29 1
+122 38 1
+65 30 1
+92 86 1
+70 38 1
+121 15 1
+112 77 1
+66 47 1
+88 97 1
+87 69 1
+96 56 1
+107 27 1
+80 53 1
+114 82 1
+114 96 1
+122 77 1
+112 14 1
+99 50 1
+88 82 1
+77 62 1
+98 99 1
+79 19 1
+107 31 1
+108 78 1
+102 17 1
+102 74 1
+127 9 1
+97 36 1
+64 93 1
+106 58 1
+125 87 1
+75 37 1
+72 30 1
+121 80 1
+74 63 1
+83 68 1
+101 10 1
+111 45 1
+85 70 1
+125 89 1
+82 47 1
+95 35 1
+70 84 1
+104 44 1
+92 20 1
+126 19 1
+76 12 1
+64 94 1
+116 97 1
+112 31 1
+111 26 1
+67 56 1
+76 63 1
+86 65 1
+91 75 1
+127 29 1
+103 30 1
+101 56 1
+113 48 1
+85 17 1
+96 50 1
+98 53 1
+92 99 1
+103 10 1
+79 54 1
+101 99 1
+77 38 1
+112 22 1
+110 73 1
+87 43 1
+78 26 1
+115 68 1
+86 45 1
+81 76 1
+127 77 1
+67 67 1
+95 65 1
+85 58 1
+118 51 1
+69 57 1
+69 65 1
+77 32 1
+83 76 1
+79 75 1
+101 15 1
+72 14 1
+104 74 1
+94 16 1
+76 32 1
+92 63 1
+103 83 1
+123 79 1
+127 95 1
+111 23 1
+122 52 1
+125 14 1
+102 53 1
+103 93 1
+65 43 1
+85 86 1
+71 75 1
+113 98 1
+119 20 1
+79 16 1
+109 74 1
+88 94 1
+78 47 1
+64 52 1
+88 88 1
+67 95 1
+120 31 1
+83 83 1
+82 87 1
+75 64 1
+98 84 1
+70 31 1
+66 66 1
+77 81 1
+109 17 1
+92 35 1
+97 54 1
+93 49 1
+64 86 1
+72 72 1
+111 74 1
+82 39 1
+68 79 1
+102 19 1
+97 41 1
+95 73 1
+96 23 1
+121 98 1
+97 33 1
+84 76 1
+127 19 1
+96 39 1
+80 28 1
+97 75 1
+95 87 1
+127 92 1
+70 51 1
+66 88 1
+115 65 1
+69 25 1
+102 96 1
+113 17 1
+77 83 1
+123 97 1
+81 25 1
+95 18 1
+69 17 1
+89 80 1
+64 37 1
+70 78 1
+122 98 1
+100 35 1
+79 45 1
+124 48 1
+123 99 1
+104 64 1
+122 43 1
+89 85 1
+100 21 1
+116 28 1
+120 17 1
+85 10 1
+91 58 1
+84 86 1
+80 69 1
+88 93 1
+110 100 1
+72 47 1
+106 53 1
+107 91 1
+77 44 1
+93 67 1
+65 69 1
+122 14 1
+125 60 1
+92 25 1
+72 44 1
+72 54 1
+64 72 1
+119 41 1
+117 61 1
+68 53 1
+85 44 1
+109 29 1
+88 95 1
+65 75 1
+83 59 1
+124 95 1
+67 72 1
+97 86 1
+71 43 1
+82 56 1
+89 75 1
+125 26 1
+98 58 1
+124 67 1
+89 47 1
+120 100 1
+90 17 1
+85 13 1
+113 39 1
+75 45 1
+116 69 1
+70 61 1
+91 79 1
+81 69 1
+65 13 1
+115 57 1
+111 86 1
+74 91 1
+68 89 1
+121 41 1
+118 88 1
+70 34 1
+127 51 1
+99 82 1
+98 97 1
+70 93 1
+125 63 1
+78 9 1
+121 9 1
+67 93 1
+96 29 1
+79 97 1
+80 82 1
+119 46 1
+111 97 1
+104 27 1
+114 68 1
+113 60 1
+72 92 1
+80 27 1
+121 29 1
+86 88 1
+109 60 1
+81 13 1
+65 63 1
+89 91 1
+86 48 1
+81 26 1
+112 73 1
+115 62 1
+65 34 1
+101 63 1
+75 14 1
+65 49 1
+123 12 1
+116 35 1
+81 72 1
+115 87 1
+102 30 1
+75 40 1
+98 47 1
+112 80 1
+110 98 1
+70 24 1
+107 80 1
+78 38 1
+82 76 1
+93 35 1
+65 78 1
+125 68 1
+82 89 1
+117 57 1
+68 46 1
+74 44 1
+124 61 1
+65 60 1
+64 25 1
+78 93 1
+126 31 1
+123 85 1
+76 64 1
+86 55 1
+126 41 1
+74 13 1
+97 48 1
+90 18 1
+84 37 1
+78 58 1
+77 90 1
+90 12 1
+104 71 1
+69 90 1
+92 87 1
+108 50 1
+80 88 1
+123 93 1
+120 21 1
+115 48 1
+79 50 1
+116 21 1
+68 81 1
+87 58 1
+120 71 1
+71 30 1
+117 23 1
+120 47 1
+85 93 1
+111 73 1
+92 75 1
+121 99 1
+84 56 1
+89 13 1
+75 58 1
+99 25 1
+117 77 1
+84 53 1
+88 29 1
+67 46 1
+113 76 1
+116 92 1
+87 90 1
+115 20 1
+125 88 1
+66 27 1
+110 39 1
+106 38 1
+91 15 1
+113 96 1
+105 44 1
+108 28 1
+86 92 1
+73 20 1
+93 18 1
+65 32 1
+95 91 1
+81 51 1
+91 43 1
+114 98 1
+71 21 1
+122 75 1
+66 60 1
+115 45 1
+86 33 1
+67 82 1
+97 28 1
+65 70 1
+76 85 1
+119 62 1
+90 78 1
+66 72 1
+84 71 1
+121 65 1
+123 60 1
+69 26 1
+94 71 1
+87 29 1
+110 95 1
+82 73 1
+83 21 1
+104 94 1
+77 28 1
+111 83 1
+113 97 1
+103 57 1
+105 67 1
+75 26 1
+127 37 1
+71 60 1
+75 51 1
+95 16 1
+76 10 1
+80 36 1
+99 60 1
+116 11 1
+126 57 1
+87 91 1
+76 61 1
+109 44 1
+71 72 1
+118 14 1
+91 16 1
+100 12 1
+103 50 1
+87 57 1
+115 9 1
+101 26 1
+106 43 1
+90 21 1
+105 62 1
+126 34 1
+87 77 1
+114 57 1
+94 74 1
+71 45 1
+73 44 1
+83 30 1
+89 62 1
+74 30 1
+87 45 1
+67 64 1
+75 17 1
+107 72 1
+79 91 1
+109 10 1
+81 95 1
+124 22 1
+95 9 1
+75 55 1
+84 72 1
+117 52 1
+126 15 1
+95 67 1
+76 93 1
+105 89 1
+93 93 1
+115 43 1
+124 92 1
+118 53 1
+106 20 1
+121 68 1
+72 58 1
+83 56 1
+111 76 1
+112 89 1
+101 98 1
+68 87 1
+127 96 1
+87 52 1
+77 25 1
+95 13 1
+109 78 1
+101 84 1
+108 93 1
+98 30 1
+108 53 1
+106 94 1
+97 91 1
+113 58 1
+113 16 1
+98 61 1
+89 50 1
+76 100 1
+114 50 1
+112 62 1
+97 77 1
+103 90 1
+108 73 1
+115 78 1
+125 15 1
+124 34 1
+82 31 1
+69 33 1
+64 100 1
+127 52 1
+119 85 1
+120 64 1
+69 47 1
+100 48 1
+86 87 1
+69 58 1
+67 48 1
+114 26 1
+68 82 1
+123 19 1
+92 22 1
+117 49 1
+123 74 1
+82 83 1
+95 26 1
+104 57 1
+68 90 1
+111 48 1
+76 27 1
+118 35 1
+99 30 1
+119 59 1
+99 63 1
+67 37 1
+110 12 1
+111 50 1
+65 82 1
+103 41 1
+125 77 1
+77 64 1
+124 94 1
+101 62 1
+103 61 1
+99 55 1
+76 44 1
+94 15 1
+116 18 1
+123 51 1
+68 12 1
+124 9 1
+97 34 1
+100 50 1
+71 11 1
+110 60 1
+113 38 1
+73 68 1
+127 46 1
+107 34 1
+97 47 1
+99 96 1
+84 80 1
+66 45 1
+75 44 1
+75 52 1
+110 76 1
+115 56 1
+85 94 1
+115 89 1
+116 64 1
+76 24 1
+127 21 1
+99 14 1
+72 46 1
+114 61 1
+70 89 1
+119 43 1
+64 17 1
+114 63 1
+71 54 1
+111 11 1
+100 55 1
+101 37 1
+115 12 1
+89 90 1
+72 13 1
+116 26 1
+98 27 1
+119 10 1
+105 56 1
+96 18 1
+119 33 1
+88 87 1
+86 76 1
+107 66 1
+106 84 1
+77 56 1
+108 91 1
+75 16 1
+97 67 1
+103 18 1
+116 32 1
+70 28 1
+90 58 1
+68 74 1
+124 32 1
+86 75 1
+117 26 1
+66 90 1
+110 46 1
+114 38 1
+87 20 1
+124 19 1
+121 75 1
+121 47 1
+86 19 1
+93 81 1
+104 86 1
+112 39 1
+118 24 1
+98 41 1
+73 29 1
+104 37 1
+93 32 1
+99 21 1
+78 92 1
+108 29 1
+96 99 1
+82 81 1
+104 21 1
+78 84 1
+84 61 1
+72 90 1
+87 94 1
+97 98 1
+118 73 1
+64 24 1
+105 24 1
+71 91 1
+118 68 1
+122 71 1
+95 17 1
+86 52 1
+67 86 1
+100 29 1
+111 99 1
+124 58 1
+98 90 1
+126 64 1
+70 26 1
+66 79 1
+109 57 1
+113 31 1
+109 51 1
+118 29 1
+107 86 1
+69 67 1
+106 14 1
+97 61 1
+76 35 1
+90 86 1
+104 50 1
+68 95 1
+107 69 1
+72 51 1
+121 100 1
+73 48 1
+85 57 1
+127 14 1
+89 37 1
+111 64 1
+66 85 1
+77 78 1
+73 27 1
+107 95 1
+101 38 1
+103 86 1
+126 53 1
+110 18 1
+96 92 1
+88 96 1
+87 68 1
+116 84 1
+70 42 1
+113 51 1
+102 48 1
+126 81 1
+77 92 1
+69 10 1
+67 69 1
+99 91 1
+113 68 1
+73 91 1
+81 33 1
+114 83 1
+91 42 1
+101 35 1
+91 83 1
+65 18 1
+112 13 1
+109 92 1
+117 59 1
+105 87 1
+80 54 1
+81 23 1
+86 34 1
+77 61 1
+121 24 1
+75 59 1
+117 10 1
+113 54 1
+75 42 1
+127 42 1
+92 65 1
+75 63 1
+121 71 1
+119 65 1
+66 80 1
+93 77 1
+125 84 1
+103 54 1
+106 79 1
+109 48 1
+99 16 1
+110 37 1
+102 82 1
+76 13 1
+67 33 1
+125 73 1
+104 30 1
+64 47 1
+66 38 1
+72 18 1
+99 10 1
+114 65 1
+109 24 1
+97 83 1
+92 23 1
+94 41 1
+69 62 1
+125 43 1
+65 41 1
+76 62 1
+71 50 1
+88 63 1
+108 65 1
+86 10 1
+107 23 1
+119 92 1
+110 69 1
+120 38 1
+122 88 1
+121 72 1
+90 51 1
+70 44 1
+123 10 1
+108 89 1
+94 27 1
+89 53 1
+95 78 1
+87 100 1
+117 91 1
+103 63 1
+92 26 1
+96 71 1
+81 94 1
+114 22 1
+72 70 1
+94 76 1
+117 36 1
+64 64 1
+102 14 1
+111 75 1
+98 88 1
+126 28 1
+113 87 1
+119 52 1
+109 46 1
+111 22 1
+113 88 1
+125 17 1
+106 97 1
+100 14 1
+120 42 1
+108 52 1
+66 98 1
+109 68 1
+113 99 1
+72 85 1
+86 58 1
+87 81 1
+92 45 1
+114 51 1
+65 56 1
+89 82 1
+87 50 1
+96 88 1
+98 62 1
+104 28 1
+89 57 1
+101 86 1
